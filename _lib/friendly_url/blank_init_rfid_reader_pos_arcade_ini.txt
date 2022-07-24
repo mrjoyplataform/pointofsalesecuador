@@ -1,0 +1,1 @@
+blank_init_rfid_reader_pos_arcade

@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_pago_factura
+NAO
+blank
+blank_pago_factura
+LigMd5

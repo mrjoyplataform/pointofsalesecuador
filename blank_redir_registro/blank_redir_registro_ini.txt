@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_redir_registro
+NAO
+blank
+blank_redir_registro
+LigMd5

@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_kiosko_home
+NAO
+blank
+blank_kiosko_home
+LigMd5

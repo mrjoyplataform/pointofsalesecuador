@@ -1,0 +1,284 @@
+.css_codprod01_det_label {text-align: right;vertical-align: middle;}
+.css_codprod01_det_line {height:0px;text-align: right;}
+.css_desprod01_det_label {text-align: right;vertical-align: middle;}
+.css_desprod01_det_line {height:0px;text-align: right;}
+.css_cve101_det_label {text-align: right;vertical-align: middle;}
+.css_cve101_det_line {height:0px;text-align: right;}
+.css_cve201_det_label {text-align: right;vertical-align: middle;}
+.css_cve201_det_line {height:0px;text-align: right;}
+.css_unidmed01_det_label {text-align: right;vertical-align: middle;}
+.css_unidmed01_det_line {height:0px;text-align: right;}
+.css_cantmin01_det_label {text-align: right;vertical-align: middle;}
+.css_cantmin01_det_line {height:0px;text-align: right;}
+.css_cantact01_det_label {text-align: right;vertical-align: middle;}
+.css_cantact01_det_line {height:0px;text-align: right;}
+.css_valact01_det_label {text-align: right;vertical-align: middle;}
+.css_valact01_det_line {height:0px;text-align: right;}
+.css_exipromo01_det_label {text-align: right;vertical-align: middle;}
+.css_exipromo01_det_line {height:0px;text-align: right;}
+.css_precuni01_det_label {text-align: right;vertical-align: middle;}
+.css_precuni01_det_line {height:0px;text-align: right;}
+.css_pedpend01_det_label {text-align: right;vertical-align: middle;}
+.css_pedpend01_det_line {height:0px;text-align: right;}
+.css_orden01_det_label {text-align: right;vertical-align: middle;}
+.css_orden01_det_line {height:0px;text-align: right;}
+.css_refer01_det_label {text-align: right;vertical-align: middle;}
+.css_refer01_det_line {height:0px;text-align: right;}
+.css_canentm01_det_label {text-align: right;vertical-align: middle;}
+.css_canentm01_det_line {height:0px;text-align: right;}
+.css_valentm01_det_label {text-align: right;vertical-align: middle;}
+.css_valentm01_det_line {height:0px;text-align: right;}
+.css_cansalm01_det_label {text-align: right;vertical-align: middle;}
+.css_cansalm01_det_line {height:0px;text-align: right;}
+.css_valsalm01_det_label {text-align: right;vertical-align: middle;}
+.css_valsalm01_det_line {height:0px;text-align: right;}
+.css_canenta01_det_label {text-align: right;vertical-align: middle;}
+.css_canenta01_det_line {height:0px;text-align: right;}
+.css_valenta01_det_label {text-align: right;vertical-align: middle;}
+.css_valenta01_det_line {height:0px;text-align: right;}
+.css_cansala01_det_label {text-align: right;vertical-align: middle;}
+.css_cansala01_det_line {height:0px;text-align: right;}
+.css_valsala01_det_label {text-align: right;vertical-align: middle;}
+.css_valsala01_det_line {height:0px;text-align: right;}
+.css_fecape01_det_label {text-align: right;vertical-align: middle;}
+.css_fecape01_det_line {height:0px;text-align: right;}
+.css_fecult01_det_label {text-align: right;vertical-align: middle;}
+.css_fecult01_det_line {height:0px;text-align: right;}
+.css_fecvta01_det_label {text-align: right;vertical-align: middle;}
+.css_fecvta01_det_line {height:0px;text-align: right;}
+.css_ubic01_det_label {text-align: right;vertical-align: middle;}
+.css_ubic01_det_line {height:0px;text-align: right;}
+.css_precvta01_det_label {text-align: right;vertical-align: middle;}
+.css_precvta01_det_line {height:0px;text-align: right;}
+.css_descto101_det_label {text-align: right;vertical-align: middle;}
+.css_descto101_det_line {height:0px;text-align: right;}
+.css_precio201_det_label {text-align: right;vertical-align: middle;}
+.css_precio201_det_line {height:0px;text-align: right;}
+.css_descto201_det_label {text-align: right;vertical-align: middle;}
+.css_descto201_det_line {height:0px;text-align: right;}
+.css_precio301_det_label {text-align: right;vertical-align: middle;}
+.css_precio301_det_line {height:0px;text-align: right;}
+.css_descto301_det_label {text-align: right;vertical-align: middle;}
+.css_descto301_det_line {height:0px;text-align: right;}
+.css_canvtam01_det_label {text-align: right;vertical-align: middle;}
+.css_canvtam01_det_line {height:0px;text-align: right;}
+.css_valvtam01_det_label {text-align: right;vertical-align: middle;}
+.css_valvtam01_det_line {height:0px;text-align: right;}
+.css_cosvtam01_det_label {text-align: right;vertical-align: middle;}
+.css_cosvtam01_det_line {height:0px;text-align: right;}
+.css_canvtaa01_det_label {text-align: right;vertical-align: middle;}
+.css_canvtaa01_det_line {height:0px;text-align: right;}
+.css_valvtaa01_det_label {text-align: right;vertical-align: middle;}
+.css_valvtaa01_det_line {height:0px;text-align: right;}
+.css_cosvtaa01_det_label {text-align: right;vertical-align: middle;}
+.css_cosvtaa01_det_line {height:0px;text-align: right;}
+.css_prod1alt01_det_label {text-align: right;vertical-align: middle;}
+.css_prod1alt01_det_line {height:0px;text-align: right;}
+.css_prod2alt01_det_label {text-align: right;vertical-align: middle;}
+.css_prod2alt01_det_line {height:0px;text-align: right;}
+.css_proved101_det_label {text-align: right;vertical-align: middle;}
+.css_proved101_det_line {height:0px;text-align: right;}
+.css_proved201_det_label {text-align: right;vertical-align: middle;}
+.css_proved201_det_line {height:0px;text-align: right;}
+.css_med101_det_label {text-align: right;vertical-align: middle;}
+.css_med101_det_line {height:0px;text-align: right;}
+.css_med201_det_label {text-align: right;vertical-align: middle;}
+.css_med201_det_line {height:0px;text-align: right;}
+.css_med301_det_label {text-align: right;vertical-align: middle;}
+.css_med301_det_line {height:0px;text-align: right;}
+.css_factor01_det_label {text-align: right;vertical-align: middle;}
+.css_factor01_det_line {height:0px;text-align: right;}
+.css_cvserie01_det_label {text-align: right;vertical-align: middle;}
+.css_cvserie01_det_line {height:0px;text-align: right;}
+.css_ctain101_det_label {text-align: right;vertical-align: middle;}
+.css_ctain101_det_line {height:0px;text-align: right;}
+.css_ctain201_det_label {text-align: right;vertical-align: middle;}
+.css_ctain201_det_line {height:0px;text-align: right;}
+.css_ctain301_det_label {text-align: right;vertical-align: middle;}
+.css_ctain301_det_line {height:0px;text-align: right;}
+.css_porciva01_det_label {text-align: right;vertical-align: middle;}
+.css_porciva01_det_line {height:0px;text-align: right;}
+.css_prodsinsdo01_det_label {text-align: right;vertical-align: middle;}
+.css_prodsinsdo01_det_line {height:0px;text-align: right;}
+.css_sinprec01_det_label {text-align: right;vertical-align: middle;}
+.css_sinprec01_det_line {height:0px;text-align: right;}
+.css_fotoprod01_det_label {text-align: right;vertical-align: middle;}
+.css_fotoprod01_det_line {height:0px;text-align: right;}
+.css_detprod01_det_label {text-align: right;vertical-align: middle;}
+.css_detprod01_det_line {height:0px;text-align: right;}
+.css_block_det_label {text-align: right;vertical-align: middle;}
+.css_block_det_line {height:0px;text-align: right;}
+.css_uid_det_label {text-align: right;vertical-align: middle;}
+.css_uid_det_line {height:0px;text-align: right;}
+.css_ultimoacceso_det_label {text-align: right;vertical-align: middle;}
+.css_ultimoacceso_det_line {height:0px;text-align: right;}
+.css_idpro_det_label {text-align: right;vertical-align: middle;}
+.css_idpro_det_line {height:0px;text-align: right;}
+.css_catprod01_det_label {text-align: right;vertical-align: middle;}
+.css_catprod01_det_line {height:0px;text-align: right;}
+.css_med401_det_label {text-align: right;vertical-align: middle;}
+.css_med401_det_line {height:0px;text-align: right;}
+.css_med501_det_label {text-align: right;vertical-align: middle;}
+.css_med501_det_line {height:0px;text-align: right;}
+.css_prodconmed01_det_label {text-align: right;vertical-align: middle;}
+.css_prodconmed01_det_line {height:0px;text-align: right;}
+.css_factorpeso01_det_label {text-align: right;vertical-align: middle;}
+.css_factorpeso01_det_line {height:0px;text-align: right;}
+.css_codbar01_det_label {text-align: right;vertical-align: middle;}
+.css_codbar01_det_line {height:0px;text-align: right;}
+.css_unifrac01_det_label {text-align: right;vertical-align: middle;}
+.css_unifrac01_det_line {height:0px;text-align: right;}
+.css_calidad01_det_label {text-align: right;vertical-align: middle;}
+.css_calidad01_det_line {height:0px;text-align: right;}
+.css_color01_det_label {text-align: right;vertical-align: middle;}
+.css_color01_det_line {height:0px;text-align: right;}
+.css_material01_det_label {text-align: right;vertical-align: middle;}
+.css_material01_det_line {height:0px;text-align: right;}
+.css_talla01_det_label {text-align: right;vertical-align: middle;}
+.css_talla01_det_line {height:0px;text-align: right;}
+.css_compuesto01_det_label {text-align: right;vertical-align: middle;}
+.css_compuesto01_det_line {height:0px;text-align: right;}
+.css_catalt01_det_label {text-align: right;vertical-align: middle;}
+.css_catalt01_det_line {height:0px;text-align: right;}
+.css_precfob01_det_label {text-align: right;vertical-align: middle;}
+.css_precfob01_det_line {height:0px;text-align: right;}
+.css_precio401_det_label {text-align: right;vertical-align: middle;}
+.css_precio401_det_line {height:0px;text-align: right;}
+.css_descto401_det_label {text-align: right;vertical-align: middle;}
+.css_descto401_det_line {height:0px;text-align: right;}
+.css_porigen01_det_label {text-align: right;vertical-align: middle;}
+.css_porigen01_det_line {height:0px;text-align: right;}
+.css_rin01_det_label {text-align: right;vertical-align: middle;}
+.css_rin01_det_line {height:0px;text-align: right;}
+.css_marca01_det_label {text-align: right;vertical-align: middle;}
+.css_marca01_det_line {height:0px;text-align: right;}
+.css_alto01_det_label {text-align: right;vertical-align: middle;}
+.css_alto01_det_line {height:0px;text-align: right;}
+.css_ancho01_det_label {text-align: right;vertical-align: middle;}
+.css_ancho01_det_line {height:0px;text-align: right;}
+.css_tipoletra01_det_label {text-align: right;vertical-align: middle;}
+.css_tipoletra01_det_line {height:0px;text-align: right;}
+.css_indcarga01_det_label {text-align: right;vertical-align: middle;}
+.css_indcarga01_det_line {height:0px;text-align: right;}
+.css_indveloc01_det_label {text-align: right;vertical-align: middle;}
+.css_indveloc01_det_line {height:0px;text-align: right;}
+.css_pr01_det_label {text-align: right;vertical-align: middle;}
+.css_pr01_det_line {height:0px;text-align: right;}
+.css_dis01_det_label {text-align: right;vertical-align: middle;}
+.css_dis01_det_line {height:0px;text-align: right;}
+.css_tipocons01_det_label {text-align: right;vertical-align: middle;}
+.css_tipocons01_det_line {height:0px;text-align: right;}
+.css_precateg01_det_label {text-align: right;vertical-align: middle;}
+.css_precateg01_det_line {height:0px;text-align: right;}
+.css_tipprod01_det_label {text-align: right;vertical-align: middle;}
+.css_tipprod01_det_line {height:0px;text-align: right;}
+.css_conversion01_det_label {text-align: right;vertical-align: middle;}
+.css_conversion01_det_line {height:0px;text-align: right;}
+.css_valhom01_det_label {text-align: right;vertical-align: middle;}
+.css_valhom01_det_line {height:0px;text-align: right;}
+.css_ctain401_det_label {text-align: right;vertical-align: middle;}
+.css_ctain401_det_line {height:0px;text-align: right;}
+.css_valhom02_det_label {text-align: right;vertical-align: middle;}
+.css_valhom02_det_line {height:0px;text-align: right;}
+.css_valhom03_det_label {text-align: right;vertical-align: middle;}
+.css_valhom03_det_line {height:0px;text-align: right;}
+.css_valhom04_det_label {text-align: right;vertical-align: middle;}
+.css_valhom04_det_line {height:0px;text-align: right;}
+.css_statuspro01_det_label {text-align: right;vertical-align: middle;}
+.css_statuspro01_det_line {height:0px;text-align: right;}
+.css_parara01_det_label {text-align: right;vertical-align: middle;}
+.css_parara01_det_line {height:0px;text-align: right;}
+.css_prodequiv01_det_label {text-align: right;vertical-align: middle;}
+.css_prodequiv01_det_line {height:0px;text-align: right;}
+.css_regalia01_det_label {text-align: right;vertical-align: middle;}
+.css_regalia01_det_line {height:0px;text-align: right;}
+.css_precio501_det_label {text-align: right;vertical-align: middle;}
+.css_precio501_det_line {height:0px;text-align: right;}
+.css_descto501_det_label {text-align: right;vertical-align: middle;}
+.css_descto501_det_line {height:0px;text-align: right;}
+.css_precio601_det_label {text-align: right;vertical-align: middle;}
+.css_precio601_det_line {height:0px;text-align: right;}
+.css_descto601_det_label {text-align: right;vertical-align: middle;}
+.css_descto601_det_line {height:0px;text-align: right;}
+.css_precio701_det_label {text-align: right;vertical-align: middle;}
+.css_precio701_det_line {height:0px;text-align: right;}
+.css_descto701_det_label {text-align: right;vertical-align: middle;}
+.css_descto701_det_line {height:0px;text-align: right;}
+.css_precio801_det_label {text-align: right;vertical-align: middle;}
+.css_precio801_det_line {height:0px;text-align: right;}
+.css_descto801_det_label {text-align: right;vertical-align: middle;}
+.css_descto801_det_line {height:0px;text-align: right;}
+.css_precio901_det_label {text-align: right;vertical-align: middle;}
+.css_precio901_det_line {height:0px;text-align: right;}
+.css_descto901_det_label {text-align: right;vertical-align: middle;}
+.css_descto901_det_line {height:0px;text-align: right;}
+.css_precio1001_det_label {text-align: right;vertical-align: middle;}
+.css_precio1001_det_line {height:0px;text-align: right;}
+.css_descto1001_det_label {text-align: right;vertical-align: middle;}
+.css_descto1001_det_line {height:0px;text-align: right;}
+.css_precio1101_det_label {text-align: right;vertical-align: middle;}
+.css_precio1101_det_line {height:0px;text-align: right;}
+.css_descto1101_det_label {text-align: right;vertical-align: middle;}
+.css_descto1101_det_line {height:0px;text-align: right;}
+.css_precio1201_det_label {text-align: right;vertical-align: middle;}
+.css_precio1201_det_line {height:0px;text-align: right;}
+.css_descto1201_det_label {text-align: right;vertical-align: middle;}
+.css_descto1201_det_line {height:0px;text-align: right;}
+.css_submarca01_det_label {text-align: right;vertical-align: middle;}
+.css_submarca01_det_line {height:0px;text-align: right;}
+.css_modelo01_det_label {text-align: right;vertical-align: middle;}
+.css_modelo01_det_line {height:0px;text-align: right;}
+.css_clasific01_det_label {text-align: right;vertical-align: middle;}
+.css_clasific01_det_line {height:0px;text-align: right;}
+.css_codbarempaque01_det_label {text-align: right;vertical-align: middle;}
+.css_codbarempaque01_det_line {height:0px;text-align: right;}
+.css_unidadempaque01_det_label {text-align: right;vertical-align: middle;}
+.css_unidadempaque01_det_line {height:0px;text-align: right;}
+.css_dimensionempaque01_det_label {text-align: right;vertical-align: middle;}
+.css_dimensionempaque01_det_line {height:0px;text-align: right;}
+.css_link01_det_label {text-align: right;vertical-align: middle;}
+.css_link01_det_line {height:0px;text-align: right;}
+.css_desprod201_det_label {text-align: right;vertical-align: middle;}
+.css_desprod201_det_line {height:0px;text-align: right;}
+.css_desprod301_det_label {text-align: right;vertical-align: middle;}
+.css_desprod301_det_line {height:0px;text-align: right;}
+.css_coefprd01_det_label {text-align: right;vertical-align: middle;}
+.css_coefprd01_det_line {height:0px;text-align: right;}
+.css_infor01_det_label {text-align: right;vertical-align: middle;}
+.css_infor01_det_line {height:0px;text-align: right;}
+.css_infor03_det_label {text-align: right;vertical-align: middle;}
+.css_infor03_det_line {height:0px;text-align: right;}
+.css_infor05_det_label {text-align: right;vertical-align: middle;}
+.css_infor05_det_line {height:0px;text-align: right;}
+.css_infor07_det_label {text-align: right;vertical-align: middle;}
+.css_infor07_det_line {height:0px;text-align: right;}
+.css_porcenrenta_det_label {text-align: right;vertical-align: middle;}
+.css_porcenrenta_det_line {height:0px;text-align: right;}
+.css_peso_det_label {text-align: right;vertical-align: middle;}
+.css_peso_det_line {height:0px;text-align: right;}
+.css_consignado_det_label {text-align: right;vertical-align: middle;}
+.css_consignado_det_line {height:0px;text-align: right;}
+.css_cant_consignado_det_label {text-align: right;vertical-align: middle;}
+.css_cant_consignado_det_line {height:0px;text-align: right;}
+.css_baseimpexe01_det_label {text-align: right;vertical-align: middle;}
+.css_baseimpexe01_det_line {height:0px;text-align: right;}
+.css_peso01_det_label {text-align: right;vertical-align: middle;}
+.css_peso01_det_line {height:0px;text-align: right;}
+.css_prodrel01_det_label {text-align: right;vertical-align: middle;}
+.css_prodrel01_det_line {height:0px;text-align: right;}
+.css_infor02_det_label {text-align: right;vertical-align: middle;}
+.css_infor02_det_line {height:0px;text-align: right;}
+.css_infor04_det_label {text-align: right;vertical-align: middle;}
+.css_infor04_det_line {height:0px;text-align: right;}
+.css_infor06_det_label {text-align: right;vertical-align: middle;}
+.css_infor06_det_line {height:0px;text-align: right;}
+.css_infor08_det_label {text-align: right;vertical-align: middle;}
+.css_infor08_det_line {height:0px;text-align: right;}
+.css_porcicevta01_det_label {text-align: right;vertical-align: middle;}
+.css_porcicevta01_det_line {height:0px;text-align: right;}
+.css_porcicecpra01_det_label {text-align: right;vertical-align: middle;}
+.css_porcicecpra01_det_line {height:0px;text-align: right;}
+.css_porcptdaranc01_det_label {text-align: right;vertical-align: middle;}
+.css_porcptdaranc01_det_line {height:0px;text-align: right;}
+.css_ordimp01_det_label {text-align: right;vertical-align: middle;}
+.css_ordimp01_det_line {height:0px;text-align: right;}

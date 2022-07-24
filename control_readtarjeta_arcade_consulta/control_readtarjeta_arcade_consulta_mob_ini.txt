@@ -1,0 +1,7 @@
+control_readtarjeta_arcade_consulta_mob.php
+pointofsales
+control_readtarjeta_arcade_consulta_mob
+NAO
+contr
+control_readtarjeta_arcade_consulta
+LigMd5

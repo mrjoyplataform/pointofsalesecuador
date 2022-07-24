@@ -1,0 +1,34 @@
+.css_idturno_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idturno_grid_line {vertical-align: top;text-align: right;}
+.css_idempleado_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_idempleado_grid_line {vertical-align: top;text-align: right;}
+.css_idcaja_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idcaja_grid_line {vertical-align: top;text-align: right;}
+.css_estado_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_estado_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_apertura_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_apertura_grid_line {vertical-align: top;text-align: center;}
+.css_fecha_cierre_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_cierre_grid_line {vertical-align: top;text-align: center;}
+.css_fondo_inicial_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_fondo_inicial_grid_line {font-family:Arial, sans-serif;font-size:14px;font-weight:bold;vertical-align: top;text-align: right;}
+.css_entrega_efectivo_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_entrega_efectivo_grid_line {font-family:Verdana, Arial, sans-serif;font-size:14px;font-weight:bold;vertical-align: top;text-align: right;}
+.css_entrega_tarjeta_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_entrega_tarjeta_grid_line {font-family:Verdana, Arial, sans-serif;font-size:14px;font-weight:bold;vertical-align: top;text-align: right;}
+.css_total_entrega_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_entrega_grid_line {font-family:Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;vertical-align: top;text-align: right;}
+.css_numero_trans_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_numero_trans_grid_line {vertical-align: top;text-align: right;}
+.css_sistema_efectivo_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_sistema_efectivo_grid_line {font-weight:bold;vertical-align: top;text-align: right;}
+.css_sistema_tarjeta_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_sistema_tarjeta_grid_line {font-weight:bold;vertical-align: top;text-align: right;}
+.css_sistema_total_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_sistema_total_grid_line {font-family:Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;vertical-align: top;text-align: right;}
+.css_diferencia_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_diferencia_grid_line {font-weight:bold;vertical-align: top;text-align: right;}
+.css_detalle_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_detalle_grid_line {text-align: center;}
+.css_cierrecaja_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_cierrecaja_grid_line {text-align: center;}

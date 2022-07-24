@@ -1,0 +1,7 @@
+index.php
+pointofsales
+dashboard_kiosko
+NAO
+container
+dashboard_kiosko
+LigMd5

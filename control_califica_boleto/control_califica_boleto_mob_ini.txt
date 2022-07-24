@@ -1,0 +1,7 @@
+control_califica_boleto_mob.php
+pointofsales
+control_califica_boleto_mob
+NAO
+contr
+control_califica_boleto
+LigMd5

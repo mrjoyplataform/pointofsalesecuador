@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_torno_salida
+NAO
+contr
+control_torno_salida
+LigMd5

@@ -1,0 +1,7 @@
+control_abrir_turno_mob.php
+pointofsales
+control_abrir_turno_mob
+NAO
+contr
+control_abrir_turno
+LigMd5

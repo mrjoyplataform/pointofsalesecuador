@@ -1,0 +1,7 @@
+index.php
+pointofsales
+boletos_pendientes_dia
+NAO
+cons
+boletos_pendientes_dia
+LigMd5

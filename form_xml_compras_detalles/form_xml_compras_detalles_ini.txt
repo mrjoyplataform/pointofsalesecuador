@@ -1,0 +1,7 @@
+index.php
+pointofsales
+form_xml_compras_detalles
+NAO
+form
+form_xml_compras_detalles
+LigMd5

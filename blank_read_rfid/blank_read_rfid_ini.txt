@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_read_rfid
+NAO
+blank
+blank_read_rfid
+LigMd5

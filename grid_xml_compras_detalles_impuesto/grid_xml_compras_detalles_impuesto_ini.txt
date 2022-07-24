@@ -1,0 +1,7 @@
+index.php
+pointofsales
+grid_xml_compras_detalles_impuesto
+NAO
+cons
+grid_xml_compras_detalles_impuesto
+LigMd5

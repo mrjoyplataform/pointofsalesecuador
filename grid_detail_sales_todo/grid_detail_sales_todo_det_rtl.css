@@ -1,0 +1,120 @@
+.css_view_sales_detail_group_todo_cantidad_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_cantidad_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_id_product_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_id_product_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_unit_value_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_unit_value_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_producto_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_producto_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_uniqueid_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_uniqueid_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_fecha_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_fecha_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_entrada_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_entrada_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_jugador_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_jugador_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_visitante_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_visitante_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_tarjeta_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_tarjeta_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_tokens_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_tokens_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_minutos_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_minutos_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_comida_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_comida_det_line {height:0px;text-align: right;}
+.css_view_sales_detail_group_todo_cuentaventa_det_label {text-align: right;vertical-align: middle;}
+.css_view_sales_detail_group_todo_cuentaventa_det_line {height:0px;text-align: right;}
+.css_sales_id_sales_det_label {text-align: right;vertical-align: middle;}
+.css_sales_id_sales_det_line {height:0px;text-align: right;}
+.css_sales_sales_price_det_label {text-align: right;vertical-align: middle;}
+.css_sales_sales_price_det_line {height:0px;text-align: right;}
+.css_sales_sales_discount_det_label {text-align: right;vertical-align: middle;}
+.css_sales_sales_discount_det_line {height:0px;text-align: right;}
+.css_sales_total_det_label {text-align: right;vertical-align: middle;}
+.css_sales_total_det_line {height:0px;text-align: right;}
+.css_sales_datesales_det_label {text-align: right;vertical-align: middle;}
+.css_sales_datesales_det_line {height:0px;text-align: right;}
+.css_sales_id_status_det_label {text-align: right;vertical-align: middle;}
+.css_sales_id_status_det_line {height:0px;text-align: right;}
+.css_sales_idcaja_det_label {text-align: right;vertical-align: middle;}
+.css_sales_idcaja_det_line {height:0px;text-align: right;}
+.css_sales_idcliente_det_label {text-align: right;vertical-align: middle;}
+.css_sales_idcliente_det_line {height:0px;text-align: right;}
+.css_sales_cliente_det_label {text-align: right;vertical-align: middle;}
+.css_sales_cliente_det_line {height:0px;text-align: right;}
+.css_sales_direccion_det_label {text-align: right;vertical-align: middle;}
+.css_sales_direccion_det_line {height:0px;text-align: right;}
+.css_sales_telefono_det_label {text-align: right;vertical-align: middle;}
+.css_sales_telefono_det_line {height:0px;text-align: right;}
+.css_sales_factura_det_label {text-align: right;vertical-align: middle;}
+.css_sales_factura_det_line {height:0px;text-align: right;}
+.css_sales_serie_det_label {text-align: right;vertical-align: middle;}
+.css_sales_serie_det_line {height:0px;text-align: right;}
+.css_sales_clave_acceso_det_label {text-align: right;vertical-align: middle;}
+.css_sales_clave_acceso_det_line {height:0px;text-align: right;}
+.css_sales_enviosri_det_label {text-align: right;vertical-align: middle;}
+.css_sales_enviosri_det_line {height:0px;text-align: right;}
+.css_sales_fechaenvio_det_label {text-align: right;vertical-align: middle;}
+.css_sales_fechaenvio_det_line {height:0px;text-align: right;}
+.css_sales_uniqueid_det_label {text-align: right;vertical-align: middle;}
+.css_sales_uniqueid_det_line {height:0px;text-align: right;}
+.css_sales_estado_det_label {text-align: right;vertical-align: middle;}
+.css_sales_estado_det_line {height:0px;text-align: right;}
+.css_sales_fechaid_det_label {text-align: right;vertical-align: middle;}
+.css_sales_fechaid_det_line {height:0px;text-align: right;}
+.css_sales_importe_recibido_det_label {text-align: right;vertical-align: middle;}
+.css_sales_importe_recibido_det_line {height:0px;text-align: right;}
+.css_sales_codigoid_det_label {text-align: right;vertical-align: middle;}
+.css_sales_codigoid_det_line {height:0px;text-align: right;}
+.css_sales_totalsinimpuestos_det_label {text-align: right;vertical-align: middle;}
+.css_sales_totalsinimpuestos_det_line {height:0px;text-align: right;}
+.css_sales_totaldescuento_det_label {text-align: right;vertical-align: middle;}
+.css_sales_totaldescuento_det_line {height:0px;text-align: right;}
+.css_sales_baseimponible_det_label {text-align: right;vertical-align: middle;}
+.css_sales_baseimponible_det_line {height:0px;text-align: right;}
+.css_sales_valoriva_det_label {text-align: right;vertical-align: middle;}
+.css_sales_valoriva_det_line {height:0px;text-align: right;}
+.css_sales_importetotal_det_label {text-align: right;vertical-align: middle;}
+.css_sales_importetotal_det_line {height:0px;text-align: right;}
+.css_sales_idpago_det_label {text-align: right;vertical-align: middle;}
+.css_sales_idpago_det_line {height:0px;text-align: right;}
+.css_sales_totalpago_det_label {text-align: right;vertical-align: middle;}
+.css_sales_totalpago_det_line {height:0px;text-align: right;}
+.css_sales_cliente_email_det_label {text-align: right;vertical-align: middle;}
+.css_sales_cliente_email_det_line {height:0px;text-align: right;}
+.css_sales_idempleado_det_label {text-align: right;vertical-align: middle;}
+.css_sales_idempleado_det_line {height:0px;text-align: right;}
+.css_sales_idturno_det_label {text-align: right;vertical-align: middle;}
+.css_sales_idturno_det_line {height:0px;text-align: right;}
+.css_sales_facturaxml_det_label {text-align: right;vertical-align: middle;}
+.css_sales_facturaxml_det_line {height:0px;text-align: right;}
+.css_sales_facturaxml64_det_label {text-align: right;vertical-align: middle;}
+.css_sales_facturaxml64_det_line {height:0px;text-align: right;}
+.css_sales_codpago_sri_det_label {text-align: right;vertical-align: middle;}
+.css_sales_codpago_sri_det_line {height:0px;text-align: right;}
+.css_sales_imprime_det_label {text-align: right;vertical-align: middle;}
+.css_sales_imprime_det_line {height:0px;text-align: right;}
+.css_sales_comprobante_det_label {text-align: right;vertical-align: middle;}
+.css_sales_comprobante_det_line {height:0px;text-align: right;}
+.css_sales_facturapdf_det_label {text-align: right;vertical-align: middle;}
+.css_sales_facturapdf_det_line {height:0px;text-align: right;}
+.css_customer_idcustomer_det_label {text-align: right;vertical-align: middle;}
+.css_customer_idcustomer_det_line {height:0px;text-align: right;}
+.css_customer_nombre_det_label {text-align: right;vertical-align: middle;}
+.css_customer_nombre_det_line {height:0px;text-align: right;}
+.css_customer_correo_det_label {text-align: right;vertical-align: middle;}
+.css_customer_correo_det_line {height:0px;text-align: right;}
+.css_customer_celular_det_label {text-align: right;vertical-align: middle;}
+.css_customer_celular_det_line {height:0px;text-align: right;}
+.css_customer_idinterno_det_label {text-align: right;vertical-align: middle;}
+.css_customer_idinterno_det_line {height:0px;text-align: right;}
+.css_customer_direccion_det_label {text-align: right;vertical-align: middle;}
+.css_customer_direccion_det_line {height:0px;text-align: right;}
+.css_customer_tipodoc_det_label {text-align: right;vertical-align: middle;}
+.css_customer_tipodoc_det_line {height:0px;text-align: right;}
+.css_customer_ult_fecha_det_label {text-align: right;vertical-align: middle;}
+.css_customer_ult_fecha_det_line {height:0px;text-align: right;}
+.css_valor_det_label {text-align: right;vertical-align: middle;}
+.css_valor_det_line {height:0px;text-align: right;}

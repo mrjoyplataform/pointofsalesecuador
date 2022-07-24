@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_valida_cedula
+NAO
+blank
+blank_valida_cedula
+LigMd5

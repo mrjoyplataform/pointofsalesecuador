@@ -1,0 +1,7 @@
+form_xml_compras_hdr_mob.php
+pointofsales
+form_xml_compras_hdr_mob
+NAO
+form
+form_xml_compras_hdr
+LigMd5

@@ -1,0 +1,10 @@
+.css_fecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_idproducto_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idproducto_grid_line {font-family:Helvetica, Arial, sans-serif;font-size:14px;font-weight:bold;vertical-align: top;text-align: right;}
+.css_cantidad_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cantidad_grid_line {vertical-align: top;text-align: right;}
+.css_promedio_califica_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_promedio_califica_grid_line {font-family:Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;vertical-align: top;text-align: right;}
+.css_califica_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_califica_grid_line {vertical-align: top;text-align: right;}

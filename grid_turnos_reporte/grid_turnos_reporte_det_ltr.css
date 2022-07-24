@@ -1,0 +1,30 @@
+.css_idturno_det_label {text-align: left;vertical-align: middle;}
+.css_idturno_det_line {height:0px;text-align: left;}
+.css_idempleado_det_label {text-align: left;vertical-align: middle;}
+.css_idempleado_det_line {height:0px;text-align: left;}
+.css_idcaja_det_label {text-align: left;vertical-align: middle;}
+.css_idcaja_det_line {height:0px;text-align: left;}
+.css_fecha_apertura_det_label {text-align: left;vertical-align: middle;}
+.css_fecha_apertura_det_line {height:0px;text-align: left;}
+.css_fondo_inicial_det_label {text-align: left;vertical-align: middle;}
+.css_fondo_inicial_det_line {font-family:Arial, sans-serif;font-size:14px;font-weight:bold;height:0px;text-align: left;}
+.css_estado_det_label {text-align: left;vertical-align: middle;}
+.css_estado_det_line {height:0px;text-align: left;}
+.css_fecha_cierre_det_label {text-align: left;vertical-align: middle;}
+.css_fecha_cierre_det_line {height:0px;text-align: left;}
+.css_diferencia_det_label {text-align: left;vertical-align: middle;}
+.css_diferencia_det_line {font-weight:bold;height:0px;text-align: left;}
+.css_total_entrega_det_label {text-align: left;vertical-align: middle;}
+.css_total_entrega_det_line {font-family:Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;height:0px;text-align: left;}
+.css_numero_trans_det_label {text-align: left;vertical-align: middle;}
+.css_numero_trans_det_line {height:0px;text-align: left;}
+.css_entrega_efectivo_det_label {text-align: left;vertical-align: middle;}
+.css_entrega_efectivo_det_line {font-family:Verdana, Arial, sans-serif;font-size:14px;font-weight:bold;height:0px;text-align: left;}
+.css_sistema_efectivo_det_label {text-align: left;vertical-align: middle;}
+.css_sistema_efectivo_det_line {font-weight:bold;height:0px;text-align: left;}
+.css_sistema_tarjeta_det_label {text-align: left;vertical-align: middle;}
+.css_sistema_tarjeta_det_line {font-weight:bold;height:0px;text-align: left;}
+.css_sistema_total_det_label {text-align: left;vertical-align: middle;}
+.css_sistema_total_det_line {font-family:Helvetica, Arial, sans-serif;font-size:20px;font-weight:bold;height:0px;text-align: left;}
+.css_total_pagos_det_label {text-align: left;vertical-align: middle;}
+.css_total_pagos_det_line {height:0px;text-align: left;}

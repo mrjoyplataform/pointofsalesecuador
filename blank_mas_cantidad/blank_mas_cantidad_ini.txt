@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_mas_cantidad
+NAO
+blank
+blank_mas_cantidad
+LigMd5

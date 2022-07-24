@@ -1,0 +1,7 @@
+sec_app_settings_mob.php
+pointofsales
+sec_app_settings_mob
+NAO
+contr
+sec_app_settings
+LigMd5

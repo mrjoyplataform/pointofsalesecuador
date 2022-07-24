@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_saldo_tokens
+NAO
+contr
+control_saldo_tokens
+LigMd5

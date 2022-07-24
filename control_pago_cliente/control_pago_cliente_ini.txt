@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_pago_cliente
+NAO
+contr
+control_pago_cliente
+LigMd5

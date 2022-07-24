@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_instructivo_kiosko
+NAO
+blank
+blank_instructivo_kiosko
+LigMd5

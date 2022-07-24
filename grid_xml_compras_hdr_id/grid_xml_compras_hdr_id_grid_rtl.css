@@ -1,0 +1,64 @@
+.css_claveacceso_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_claveacceso_grid_line {vertical-align: top;text-align: right;}
+.css_tipodoc_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipodoc_grid_line {vertical-align: top;text-align: right;}
+.css_documento_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_documento_grid_line {vertical-align: top;text-align: right;}
+.css_codigobarras_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codigobarras_grid_line {vertical-align: top;text-align: right;}
+.css_ruc_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ruc_grid_line {vertical-align: top;text-align: right;}
+.css_razonsocial_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_razonsocial_grid_line {vertical-align: top;text-align: right;}
+.css_fechaemision_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fechaemision_grid_line {vertical-align: top;text-align: center;}
+.css_totalsinimpuestos_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_totalsinimpuestos_grid_line {vertical-align: top;text-align: right;}
+.css_totalsinimpuestos_sub_tot {text-align: right;}
+.css_totalsinimpuestos_tot_ger {text-align: right;}
+.css_importetotal_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_importetotal_grid_line {vertical-align: top;text-align: right;}
+.css_importetotal_sub_tot {text-align: right;}
+.css_importetotal_tot_ger {text-align: right;}
+.css_dirmatriz_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_dirmatriz_grid_line {vertical-align: top;text-align: right;}
+.css_estado_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_estado_grid_line {vertical-align: top;text-align: right;}
+.css_txtline_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_txtline_grid_line {vertical-align: top;text-align: right;}
+.css_ambiente_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ambiente_grid_line {vertical-align: top;text-align: right;}
+.css_tipoemision_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipoemision_grid_line {vertical-align: top;text-align: right;}
+.css_nombrecomercial_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombrecomercial_grid_line {vertical-align: top;text-align: right;}
+.css_coddoc_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_coddoc_grid_line {vertical-align: top;text-align: right;}
+.css_estab_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_estab_grid_line {vertical-align: top;text-align: right;}
+.css_ptoemi_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ptoemi_grid_line {vertical-align: top;text-align: right;}
+.css_secuencial_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_secuencial_grid_line {vertical-align: top;text-align: right;}
+.css_direstablecimiento_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_direstablecimiento_grid_line {vertical-align: top;text-align: right;}
+.css_obligadocontabilidad_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_obligadocontabilidad_grid_line {vertical-align: top;text-align: right;}
+.css_tipoidentificacioncomprador_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipoidentificacioncomprador_grid_line {vertical-align: top;text-align: right;}
+.css_razonsocialcomprador_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_razonsocialcomprador_grid_line {vertical-align: top;text-align: right;}
+.css_identificacioncomprador_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_identificacioncomprador_grid_line {vertical-align: top;text-align: right;}
+.css_totaldescuento_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_totaldescuento_grid_line {vertical-align: top;text-align: right;}
+.css_totalconimpuestos_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_totalconimpuestos_grid_line {vertical-align: top;text-align: right;}
+.css_propina_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_propina_grid_line {vertical-align: top;text-align: right;}
+.css_moneda_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_moneda_grid_line {vertical-align: top;text-align: right;}
+.css_fecharegistro_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecharegistro_grid_line {vertical-align: top;text-align: center;}
+.css_detalles_grid_line {text-align: center;}
+.css_impuestos_grid_line {text-align: center;}

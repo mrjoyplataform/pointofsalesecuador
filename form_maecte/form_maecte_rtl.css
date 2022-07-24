@@ -1,0 +1,897 @@
+.css_codcte01_label { }
+.css_codcte01_line {text-align:left;}
+.css_codcte01_obj {text-align:left;}
+.css_tipo_cliente_label { }
+.css_tipo_cliente_line {text-align:left;}
+.css_tipo_cliente_obj {text-align:left;}
+.css_id_nacionalidad_label { }
+.css_id_nacionalidad_line {text-align:left;}
+.css_id_nacionalidad_obj {text-align:left;}
+.css_nomcte01_label { }
+.css_nomcte01_line { }
+.css_nomcte01_obj { }
+.css_primer_nombre_label { }
+.css_primer_nombre_line { }
+.css_primer_nombre_obj { }
+.css_segundo_nombre_label { }
+.css_segundo_nombre_line { }
+.css_segundo_nombre_obj { }
+.css_primer_apellido_label { }
+.css_primer_apellido_line { }
+.css_primer_apellido_obj { }
+.css_segundo_apellido_label { }
+.css_segundo_apellido_line { }
+.css_segundo_apellido_obj { }
+.css_cv1cte01_label { }
+.css_cv1cte01_line { }
+.css_cv1cte01_obj { }
+.css_cv2cte01_label { }
+.css_cv2cte01_line { }
+.css_cv2cte01_obj { }
+.css_tipcte01_label { }
+.css_tipcte01_line { }
+.css_tipcte01_obj { }
+.css_ofienccte01_label { }
+.css_ofienccte01_line { }
+.css_ofienccte01_obj { }
+.css_vendcte01_label { }
+.css_vendcte01_line { }
+.css_vendcte01_obj { }
+.css_cobrcte01_label { }
+.css_cobrcte01_line { }
+.css_cobrcte01_obj { }
+.css_loccte01_label { }
+.css_loccte01_line { }
+.css_loccte01_obj { }
+.css_dircte01_label { }
+.css_dircte01_line { }
+.css_dircte01_obj { }
+.css_sector_label { }
+.css_sector_line { }
+.css_sector_obj { }
+.css_calle_principal_label { }
+.css_calle_principal_line { }
+.css_calle_principal_obj { }
+.css_no_label { }
+.css_no_line { }
+.css_no_obj { }
+.css_calle_secundaria_label { }
+.css_calle_secundaria_line { }
+.css_calle_secundaria_obj { }
+.css_id_pais_label { }
+.css_id_pais_line {text-align:left;}
+.css_id_pais_obj {text-align:left;}
+.css_id_provincia_label { }
+.css_id_provincia_line {text-align:left;}
+.css_id_provincia_obj {text-align:left;}
+.css_id_ciudad_label { }
+.css_id_ciudad_line {text-align:left;}
+.css_id_ciudad_obj {text-align:left;}
+.css_id_canton_label { }
+.css_id_canton_line {text-align:left;}
+.css_id_canton_obj {text-align:left;}
+.css_telcte01_label { }
+.css_telcte01_line { }
+.css_telcte01_obj { }
+.css_cascte01_label { }
+.css_cascte01_line { }
+.css_cascte01_obj { }
+.css_ci_conyuge_label { }
+.css_ci_conyuge_line { }
+.css_ci_conyuge_obj { }
+.css_conyuge_tipo_identidad_label { }
+.css_conyuge_tipo_identidad_line { }
+.css_conyuge_tipo_identidad_obj { }
+.css_conyuge_primer_nombre_label { }
+.css_conyuge_primer_nombre_line { }
+.css_conyuge_primer_nombre_obj { }
+.css_conyuge_segundo_nombre_label { }
+.css_conyuge_segundo_nombre_line { }
+.css_conyuge_segundo_nombre_obj { }
+.css_conyuge_primer_apellido_label { }
+.css_conyuge_primer_apellido_line { }
+.css_conyuge_primer_apellido_obj { }
+.css_conyuge_segundo_apellido_label { }
+.css_conyuge_segundo_apellido_line { }
+.css_conyuge_segundo_apellido_obj { }
+.css_conyuge_profesion_label { }
+.css_conyuge_profesion_line { }
+.css_conyuge_profesion_obj { }
+.css_id_tipo_documento_label { }
+.css_id_tipo_documento_line {text-align:left;}
+.css_id_tipo_documento_obj {text-align:left;}
+.css_repleg01_label { }
+.css_repleg01_line { }
+.css_repleg01_obj { }
+.css_fecing01_label { }
+.css_fecing01_line { }
+.css_fecing01_obj { }
+.css_condpag01_label { }
+.css_condpag01_line { }
+.css_condpag01_obj { }
+.css_desctocte01_label { }
+.css_desctocte01_line {text-align:left;}
+.css_desctocte01_obj {text-align:left;}
+.css_limcred01_label { }
+.css_limcred01_line {text-align:left;}
+.css_limcred01_obj {text-align:left;}
+.css_desppar01_label { }
+.css_desppar01_line { }
+.css_desppar01_obj { }
+.css_cheqpro01_label { }
+.css_cheqpro01_line {text-align:left;}
+.css_cheqpro01_obj {text-align:left;}
+.css_sdoeje01_label { }
+.css_sdoeje01_line {text-align:left;}
+.css_sdoeje01_obj {text-align:left;}
+.css_sdoant01_label { }
+.css_sdoant01_line {text-align:left;}
+.css_sdoant01_obj {text-align:left;}
+.css_sdoact01_label { }
+.css_sdoact01_line {text-align:left;}
+.css_sdoact01_obj {text-align:left;}
+.css_acudbm01_label { }
+.css_acudbm01_line {text-align:left;}
+.css_acudbm01_obj {text-align:left;}
+.css_acucrm01_label { }
+.css_acucrm01_line {text-align:left;}
+.css_acucrm01_obj {text-align:left;}
+.css_acudbe01_label { }
+.css_acudbe01_line {text-align:left;}
+.css_acudbe01_obj {text-align:left;}
+.css_acucre01_label { }
+.css_acucre01_line {text-align:left;}
+.css_acucre01_obj {text-align:left;}
+.css_comentcte01_label { }
+.css_comentcte01_line { }
+.css_comentcte01_obj { }
+.css_statuscte01_label { }
+.css_statuscte01_line { }
+.css_statuscte01_obj { }
+.css_identcte01_label { }
+.css_identcte01_line { }
+.css_identcte01_obj { }
+.css_cordcte01_label { }
+.css_cordcte01_line { }
+.css_cordcte01_obj { }
+.css_limcant01_label { }
+.css_limcant01_line { }
+.css_limcant01_obj { }
+.css_pagleg01_label { }
+.css_pagleg01_line { }
+.css_pagleg01_obj { }
+.css_telcte01b_label { }
+.css_telcte01b_line { }
+.css_telcte01b_obj { }
+.css_telcte01c_label { }
+.css_telcte01c_line { }
+.css_telcte01c_obj { }
+.css_emailcte01_label { }
+.css_emailcte01_line { }
+.css_emailcte01_obj { }
+.css_calle_principal_exterior_label { }
+.css_calle_principal_exterior_line { }
+.css_calle_principal_exterior_obj { }
+.css_no_exterior_label { }
+.css_no_exterior_line { }
+.css_no_exterior_obj { }
+.css_calle_secundaria_exterior_label { }
+.css_calle_secundaria_exterior_line { }
+.css_calle_secundaria_exterior_obj { }
+.css_id_pais_exterior_label { }
+.css_id_pais_exterior_line {text-align:left;}
+.css_id_pais_exterior_obj {text-align:left;}
+.css_id_ciudad_exterior_label { }
+.css_id_ciudad_exterior_line {text-align:left;}
+.css_id_ciudad_exterior_obj {text-align:left;}
+.css_codigo_postal_exterior_label { }
+.css_codigo_postal_exterior_line { }
+.css_codigo_postal_exterior_obj { }
+.css_sector_exterior_label { }
+.css_sector_exterior_line { }
+.css_sector_exterior_obj { }
+.css_telefono_exterior_label { }
+.css_telefono_exterior_line { }
+.css_telefono_exterior_obj { }
+.css_celular_exterior_label { }
+.css_celular_exterior_line { }
+.css_celular_exterior_obj { }
+.css_email_exterior_label { }
+.css_email_exterior_line { }
+.css_email_exterior_obj { }
+.css_emailaltcte01_label { }
+.css_emailaltcte01_line { }
+.css_emailaltcte01_obj { }
+.css_ctacgcte01_label { }
+.css_ctacgcte01_line { }
+.css_ctacgcte01_obj { }
+.css_obsercte01_label { }
+.css_obsercte01_line { }
+.css_obsercte01_obj { }
+.css_totexceso01_label { }
+.css_totexceso01_line {text-align:left;}
+.css_totexceso01_obj {text-align:left;}
+.css_imagencte01_label { }
+.css_imagencte01_line { }
+.css_imagencte01_obj { }
+.css_block_label { }
+.css_block_line { }
+.css_block_obj { }
+.css_uid_label { }
+.css_uid_line { }
+.css_uid_obj { }
+.css_ultimoacceso_label { }
+.css_ultimoacceso_line {text-align:left;}
+.css_ultimoacceso_obj {text-align:left;}
+.css_idcli_label { }
+.css_idcli_line {text-align:left;}
+.css_idcli_obj {text-align:left;}
+.css_catcte01_label { }
+.css_catcte01_line { }
+.css_catcte01_obj { }
+.css_transferido_label { }
+.css_transferido_line { }
+.css_transferido_obj { }
+.css_password_label { }
+.css_password_line { }
+.css_password_obj { }
+.css_showroom_label { }
+.css_showroom_line { }
+.css_showroom_obj { }
+.css_orden_label { }
+.css_orden_line { }
+.css_orden_obj { }
+.css_website_label { }
+.css_website_line { }
+.css_website_obj { }
+.css_longitud01_label { }
+.css_longitud01_line { }
+.css_longitud01_obj { }
+.css_latitud01_label { }
+.css_latitud01_line { }
+.css_latitud01_obj { }
+.css_zoom01_label { }
+.css_zoom01_line { }
+.css_zoom01_obj { }
+.css_acceder_label { }
+.css_acceder_line { }
+.css_acceder_obj { }
+.css_coniva01_label { }
+.css_coniva01_line { }
+.css_coniva01_obj { }
+.css_idemp01_label { }
+.css_idemp01_line {text-align:left;}
+.css_idemp01_obj {text-align:left;}
+.css_codprov01_label { }
+.css_codprov01_line { }
+.css_codprov01_obj { }
+.css_celular01_label { }
+.css_celular01_line { }
+.css_celular01_obj { }
+.css_dircliente01_label { }
+.css_dircliente01_line { }
+.css_dircliente01_obj { }
+.css_razcte01_label { }
+.css_razcte01_line { }
+.css_razcte01_obj { }
+.css_ruc01_label { }
+.css_ruc01_line { }
+.css_ruc01_obj { }
+.css_timenegocio01_label { }
+.css_timenegocio01_line { }
+.css_timenegocio01_obj { }
+.css_refbanc01_label { }
+.css_refbanc01_line { }
+.css_refbanc01_obj { }
+.css_refcom01_label { }
+.css_refcom01_line { }
+.css_refcom01_obj { }
+.css_tarjcred01_label { }
+.css_tarjcred01_line { }
+.css_tarjcred01_obj { }
+.css_firmaut01_label { }
+.css_firmaut01_line { }
+.css_firmaut01_obj { }
+.css_precte01_label { }
+.css_precte01_line {text-align:left;}
+.css_precte01_obj {text-align:left;}
+.css_cuotasven01_label { }
+.css_cuotasven01_line {text-align:left;}
+.css_cuotasven01_obj {text-align:left;}
+.css_diasven01_label { }
+.css_diasven01_line {text-align:left;}
+.css_diasven01_obj {text-align:left;}
+.css_fechanace01_label { }
+.css_fechanace01_line { }
+.css_fechanace01_obj { }
+.css_sexo01_label { }
+.css_sexo01_line {text-align:left;}
+.css_sexo01_obj {text-align:left;}
+.css_estadocivil01_label { }
+.css_estadocivil01_line { }
+.css_estadocivil01_obj { }
+.css_dirgestion01_label { }
+.css_dirgestion01_line { }
+.css_dirgestion01_obj { }
+.css_numhijos01_label { }
+.css_numhijos01_line { }
+.css_numhijos01_obj { }
+.css_estsop01_label { }
+.css_estsop01_line { }
+.css_estsop01_obj { }
+.css_notick01_label { }
+.css_notick01_line { }
+.css_notick01_obj { }
+.css_chequece_label { }
+.css_chequece_line { }
+.css_chequece_obj { }
+.css_solcre_label { }
+.css_solcre_line { }
+.css_solcre_obj { }
+.css_promocte01_label { }
+.css_promocte01_line { }
+.css_promocte01_obj { }
+.css_pagare01_label { }
+.css_pagare01_line { }
+.css_pagare01_obj { }
+.css_valorpagare01_label { }
+.css_valorpagare01_line {text-align:left;}
+.css_valorpagare01_obj {text-align:left;}
+.css_garante01_label { }
+.css_garante01_line { }
+.css_garante01_obj { }
+.css_fecvenp01_label { }
+.css_fecvenp01_line { }
+.css_fecvenp01_obj { }
+.css_ctacgant01_label { }
+.css_ctacgant01_line { }
+.css_ctacgant01_obj { }
+.css_dsn_label { }
+.css_dsn_line { }
+.css_dsn_obj { }
+.css_residente_label { }
+.css_residente_line {text-align:left;}
+.css_residente_obj {text-align:left;}
+.css_medio_contacto_label { }
+.css_medio_contacto_line { }
+.css_medio_contacto_obj { }
+.css_separacion_bienes_label { }
+.css_separacion_bienes_line {text-align:left;}
+.css_separacion_bienes_obj {text-align:left;}
+.css_disolucion_conyugal_label { }
+.css_disolucion_conyugal_line {text-align:left;}
+.css_disolucion_conyugal_obj {text-align:left;}
+.css_capitulaciones_label { }
+.css_capitulaciones_line {text-align:left;}
+.css_capitulaciones_obj {text-align:left;}
+.css_numero_carga_familiar_label { }
+.css_numero_carga_familiar_line {text-align:left;}
+.css_numero_carga_familiar_obj {text-align:left;}
+.css_nivel_educacion_label { }
+.css_nivel_educacion_line { }
+.css_nivel_educacion_obj { }
+.css_profesion_label { }
+.css_profesion_line { }
+.css_profesion_obj { }
+.css_envio_correspondencia_label { }
+.css_envio_correspondencia_line {text-align:left;}
+.css_envio_correspondencia_obj {text-align:left;}
+.css_nombre_arrendador_label { }
+.css_nombre_arrendador_line { }
+.css_nombre_arrendador_obj { }
+.css_apellido_arrendador_label { }
+.css_apellido_arrendador_line { }
+.css_apellido_arrendador_obj { }
+.css_id_vivienda_label { }
+.css_id_vivienda_line {text-align:left;}
+.css_id_vivienda_obj {text-align:left;}
+.css_telefono_arrendador_label { }
+.css_telefono_arrendador_line { }
+.css_telefono_arrendador_obj { }
+.css_nombres_referencia_label { }
+.css_nombres_referencia_line { }
+.css_nombres_referencia_obj { }
+.css_apellidos_referencia_label { }
+.css_apellidos_referencia_line { }
+.css_apellidos_referencia_obj { }
+.css_parentesco_label { }
+.css_parentesco_line { }
+.css_parentesco_obj { }
+.css_celular_ref_label { }
+.css_celular_ref_line { }
+.css_celular_ref_obj { }
+.css_telefono_convencional_ref_label { }
+.css_telefono_convencional_ref_line { }
+.css_telefono_convencional_ref_obj { }
+.css_id_ocupacion_label { }
+.css_id_ocupacion_line {text-align:left;}
+.css_id_ocupacion_obj {text-align:left;}
+.css_fecha_ingreso_empresa_label { }
+.css_fecha_ingreso_empresa_line { }
+.css_fecha_ingreso_empresa_obj { }
+.css_nombre_empresa_label { }
+.css_nombre_empresa_line { }
+.css_nombre_empresa_obj { }
+.css_ciudad_empresa_label { }
+.css_ciudad_empresa_line { }
+.css_ciudad_empresa_obj { }
+.css_provincia_empresa_label { }
+.css_provincia_empresa_line { }
+.css_provincia_empresa_obj { }
+.css_direccion_empresa_label { }
+.css_direccion_empresa_line { }
+.css_direccion_empresa_obj { }
+.css_cargo_empresa_label { }
+.css_cargo_empresa_line { }
+.css_cargo_empresa_obj { }
+.css_telefono_empresa_label { }
+.css_telefono_empresa_line { }
+.css_telefono_empresa_obj { }
+.css_ext_empresa_label { }
+.css_ext_empresa_line { }
+.css_ext_empresa_obj { }
+.css_id_tipo_contrato_actividad_label { }
+.css_id_tipo_contrato_actividad_line {text-align:left;}
+.css_id_tipo_contrato_actividad_obj {text-align:left;}
+.css_empresa_jubilo_actividad_label { }
+.css_empresa_jubilo_actividad_line { }
+.css_empresa_jubilo_actividad_obj { }
+.css_fecha_salida_empresa_actividad_label { }
+.css_fecha_salida_empresa_actividad_line { }
+.css_fecha_salida_empresa_actividad_obj { }
+.css_cargo_salida_empresa_actividad_label { }
+.css_cargo_salida_empresa_actividad_line { }
+.css_cargo_salida_empresa_actividad_obj { }
+.css_fecha_inicio_actividad_label { }
+.css_fecha_inicio_actividad_line { }
+.css_fecha_inicio_actividad_obj { }
+.css_fecha_ingreso_empresa_actividad_label { }
+.css_fecha_ingreso_empresa_actividad_line { }
+.css_fecha_ingreso_empresa_actividad_obj { }
+.css_nombre_empresa_actividad_label { }
+.css_nombre_empresa_actividad_line { }
+.css_nombre_empresa_actividad_obj { }
+.css_institucion_actividad_label { }
+.css_institucion_actividad_line { }
+.css_institucion_actividad_obj { }
+.css_ciudad_actividad_label { }
+.css_ciudad_actividad_line { }
+.css_ciudad_actividad_obj { }
+.css_provincia_actividad_label { }
+.css_provincia_actividad_line { }
+.css_provincia_actividad_obj { }
+.css_direccion_actividad_label { }
+.css_direccion_actividad_line { }
+.css_direccion_actividad_obj { }
+.css_calle_principal_actividad_label { }
+.css_calle_principal_actividad_line { }
+.css_calle_principal_actividad_obj { }
+.css_no_actividad_label { }
+.css_no_actividad_line { }
+.css_no_actividad_obj { }
+.css_calle_secundaria_actividad_label { }
+.css_calle_secundaria_actividad_line { }
+.css_calle_secundaria_actividad_obj { }
+.css_sector_actividad_label { }
+.css_sector_actividad_line { }
+.css_sector_actividad_obj { }
+.css_pais_actividad_label { }
+.css_pais_actividad_line {text-align:left;}
+.css_pais_actividad_obj {text-align:left;}
+.css_actividad_label { }
+.css_actividad_line { }
+.css_actividad_obj { }
+.css_telefono_actividad_label { }
+.css_telefono_actividad_line { }
+.css_telefono_actividad_obj { }
+.css_cargo_actividad_label { }
+.css_cargo_actividad_line { }
+.css_cargo_actividad_obj { }
+.css_ext_actividad_label { }
+.css_ext_actividad_line { }
+.css_ext_actividad_obj { }
+.css_fecha_ingreso_empresa_actividad2_label { }
+.css_fecha_ingreso_empresa_actividad2_line { }
+.css_fecha_ingreso_empresa_actividad2_obj { }
+.css_nombre_empresa_actividad2_label { }
+.css_nombre_empresa_actividad2_line { }
+.css_nombre_empresa_actividad2_obj { }
+.css_institucion_actividad2_label { }
+.css_institucion_actividad2_line { }
+.css_institucion_actividad2_obj { }
+.css_ciudad_actividad2_label { }
+.css_ciudad_actividad2_line { }
+.css_ciudad_actividad2_obj { }
+.css_provincia_actividad2_label { }
+.css_provincia_actividad2_line { }
+.css_provincia_actividad2_obj { }
+.css_direccion_actividad2_label { }
+.css_direccion_actividad2_line { }
+.css_direccion_actividad2_obj { }
+.css_calle_principal_actividad2_label { }
+.css_calle_principal_actividad2_line { }
+.css_calle_principal_actividad2_obj { }
+.css_no_actividad2_label { }
+.css_no_actividad2_line { }
+.css_no_actividad2_obj { }
+.css_calle_secundaria_actividad2_label { }
+.css_calle_secundaria_actividad2_line { }
+.css_calle_secundaria_actividad2_obj { }
+.css_sector_actividad2_label { }
+.css_sector_actividad2_line { }
+.css_sector_actividad2_obj { }
+.css_fecha_salida_empresa_actividad2_label { }
+.css_fecha_salida_empresa_actividad2_line { }
+.css_fecha_salida_empresa_actividad2_obj { }
+.css_fecha_inicio_actividad2_label { }
+.css_fecha_inicio_actividad2_line { }
+.css_fecha_inicio_actividad2_obj { }
+.css_actividad2_label { }
+.css_actividad2_line { }
+.css_actividad2_obj { }
+.css_telefono_actividad2_label { }
+.css_telefono_actividad2_line { }
+.css_telefono_actividad2_obj { }
+.css_ext_actividad2_label { }
+.css_ext_actividad2_line {text-align:left;}
+.css_ext_actividad2_obj {text-align:left;}
+.css_cargo_actividad2_label { }
+.css_cargo_actividad2_line { }
+.css_cargo_actividad2_obj { }
+.css_id_tipo_contrato_actividad2_label { }
+.css_id_tipo_contrato_actividad2_line {text-align:left;}
+.css_id_tipo_contrato_actividad2_obj {text-align:left;}
+.css_empresa_jubilo_actividad2_label { }
+.css_empresa_jubilo_actividad2_line { }
+.css_empresa_jubilo_actividad2_obj { }
+.css_sueldo_label { }
+.css_sueldo_line {text-align:left;}
+.css_sueldo_obj {text-align:left;}
+.css_arriendos_label { }
+.css_arriendos_line {text-align:left;}
+.css_arriendos_obj {text-align:left;}
+.css_dividendo_utilidades_ultimo_ano_label { }
+.css_dividendo_utilidades_ultimo_ano_line {text-align:left;}
+.css_dividendo_utilidades_ultimo_ano_obj {text-align:left;}
+.css_id_otros_ingresos_label { }
+.css_id_otros_ingresos_line {text-align:left;}
+.css_id_otros_ingresos_obj {text-align:left;}
+.css_arriendo_hipoteca_label { }
+.css_arriendo_hipoteca_line {text-align:left;}
+.css_arriendo_hipoteca_obj {text-align:left;}
+.css_prestamos_label { }
+.css_prestamos_line {text-align:left;}
+.css_prestamos_obj {text-align:left;}
+.css_tarjetas_creditos_label { }
+.css_tarjetas_creditos_line {text-align:left;}
+.css_tarjetas_creditos_obj {text-align:left;}
+.css_gastos_familiares_label { }
+.css_gastos_familiares_line {text-align:left;}
+.css_gastos_familiares_obj {text-align:left;}
+.css_id_otros_gastos_label { }
+.css_id_otros_gastos_line {text-align:left;}
+.css_id_otros_gastos_obj {text-align:left;}
+.css_depositos_bancos_label { }
+.css_depositos_bancos_line {text-align:left;}
+.css_depositos_bancos_obj {text-align:left;}
+.css_cuentas_documentos_label { }
+.css_cuentas_documentos_line {text-align:left;}
+.css_cuentas_documentos_obj {text-align:left;}
+.css_mercaderias_label { }
+.css_mercaderias_line {text-align:left;}
+.css_mercaderias_obj {text-align:left;}
+.css_maquinarias_vehiculos_label { }
+.css_maquinarias_vehiculos_line {text-align:left;}
+.css_maquinarias_vehiculos_obj {text-align:left;}
+.css_terrenos_edificios_label { }
+.css_terrenos_edificios_line {text-align:left;}
+.css_terrenos_edificios_obj {text-align:left;}
+.css_acciones_bonos_cedulas_label { }
+.css_acciones_bonos_cedulas_line {text-align:left;}
+.css_acciones_bonos_cedulas_obj {text-align:left;}
+.css_id_otros_activos_label { }
+.css_id_otros_activos_line {text-align:left;}
+.css_id_otros_activos_obj {text-align:left;}
+.css_cuentas_por_pagar_label { }
+.css_cuentas_por_pagar_line {text-align:left;}
+.css_cuentas_por_pagar_obj {text-align:left;}
+.css_prestamos_banco_menos_ano_label { }
+.css_prestamos_banco_menos_ano_line {text-align:left;}
+.css_prestamos_banco_menos_ano_obj {text-align:left;}
+.css_prestamos_banco_mas_ano_label { }
+.css_prestamos_banco_mas_ano_line {text-align:left;}
+.css_prestamos_banco_mas_ano_obj {text-align:left;}
+.css_deudas_tarjetas_creditos_label { }
+.css_deudas_tarjetas_creditos_line {text-align:left;}
+.css_deudas_tarjetas_creditos_obj {text-align:left;}
+.css_id_otras_obligaciones_label { }
+.css_id_otras_obligaciones_line {text-align:left;}
+.css_id_otras_obligaciones_obj {text-align:left;}
+.css_deudor_label { }
+.css_deudor_line { }
+.css_deudor_obj { }
+.css_monto_label { }
+.css_monto_line {text-align:left;}
+.css_monto_obj {text-align:left;}
+.css_descripcion_label { }
+.css_descripcion_line { }
+.css_descripcion_obj { }
+.css_placa_label { }
+.css_placa_line { }
+.css_placa_obj { }
+.css_valor_maquinaria_vehiculo_label { }
+.css_valor_maquinaria_vehiculo_line {text-align:left;}
+.css_valor_maquinaria_vehiculo_obj {text-align:left;}
+.css_a_nombre_de_label { }
+.css_a_nombre_de_line { }
+.css_a_nombre_de_obj { }
+.css_ubicacion_label { }
+.css_ubicacion_line { }
+.css_ubicacion_obj { }
+.css_valor_propiedad_label { }
+.css_valor_propiedad_line {text-align:left;}
+.css_valor_propiedad_obj {text-align:left;}
+.css_empresa_label { }
+.css_empresa_line { }
+.css_empresa_obj { }
+.css_valor_mercado_label { }
+.css_valor_mercado_line {text-align:left;}
+.css_valor_mercado_obj {text-align:left;}
+.css_institucion_bancaria_label { }
+.css_institucion_bancaria_line { }
+.css_institucion_bancaria_obj { }
+.css_monto_banco_label { }
+.css_monto_banco_line {text-align:left;}
+.css_monto_banco_obj {text-align:left;}
+.css_institucion_finaciera_label { }
+.css_institucion_finaciera_line { }
+.css_institucion_finaciera_obj { }
+.css_monto_institucion_finaciera_label { }
+.css_monto_institucion_finaciera_line {text-align:left;}
+.css_monto_institucion_finaciera_obj {text-align:left;}
+.css_id_cliente_juridico_label { }
+.css_id_cliente_juridico_line {text-align:left;}
+.css_id_cliente_juridico_obj {text-align:left;}
+.css_nombre_completo_empresa_label { }
+.css_nombre_completo_empresa_line { }
+.css_nombre_completo_empresa_obj { }
+.css_es_empresa_extranjera_label { }
+.css_es_empresa_extranjera_line {text-align:left;}
+.css_es_empresa_extranjera_obj {text-align:left;}
+.css_pais_empresa_label { }
+.css_pais_empresa_line { }
+.css_pais_empresa_obj { }
+.css_fecha_constitucion_empresa_label { }
+.css_fecha_constitucion_empresa_line { }
+.css_fecha_constitucion_empresa_obj { }
+.css_id_oficina_label { }
+.css_id_oficina_line {text-align:left;}
+.css_id_oficina_obj {text-align:left;}
+.css_id_tipo_actividad_label { }
+.css_id_tipo_actividad_line {text-align:left;}
+.css_id_tipo_actividad_obj {text-align:left;}
+.css_especifique_otros_label { }
+.css_especifique_otros_line { }
+.css_especifique_otros_obj { }
+.css_direccion_correspondencia_label { }
+.css_direccion_correspondencia_line { }
+.css_direccion_correspondencia_obj { }
+.css_calle_principal_correspondencia_label { }
+.css_calle_principal_correspondencia_line { }
+.css_calle_principal_correspondencia_obj { }
+.css_no_correspondencia_label { }
+.css_no_correspondencia_line { }
+.css_no_correspondencia_obj { }
+.css_calle_secundaria_correspondencia_label { }
+.css_calle_secundaria_correspondencia_line { }
+.css_calle_secundaria_correspondencia_obj { }
+.css_id_ciudad_correspondencia_label { }
+.css_id_ciudad_correspondencia_line {text-align:left;}
+.css_id_ciudad_correspondencia_obj {text-align:left;}
+.css_nombre_empresa_solicitante_label { }
+.css_nombre_empresa_solicitante_line { }
+.css_nombre_empresa_solicitante_obj { }
+.css_cargo_empresa_solicitante_label { }
+.css_cargo_empresa_solicitante_line { }
+.css_cargo_empresa_solicitante_obj { }
+.css_celular_empresa_solicitante_label { }
+.css_celular_empresa_solicitante_line { }
+.css_celular_empresa_solicitante_obj { }
+.css_telefono_empresa_solicitante_label { }
+.css_telefono_empresa_solicitante_line { }
+.css_telefono_empresa_solicitante_obj { }
+.css_mail_empresa_solicitante_label { }
+.css_mail_empresa_solicitante_line { }
+.css_mail_empresa_solicitante_obj { }
+.css_saldo_empresa_solicitante_label { }
+.css_saldo_empresa_solicitante_line {text-align:left;}
+.css_saldo_empresa_solicitante_obj {text-align:left;}
+.css_nombre_referencia_comerciales_label { }
+.css_nombre_referencia_comerciales_line { }
+.css_nombre_referencia_comerciales_obj { }
+.css_fecha_compra_label { }
+.css_fecha_compra_line { }
+.css_fecha_compra_obj { }
+.css_telefono_referencia_comerciales_label { }
+.css_telefono_referencia_comerciales_line { }
+.css_telefono_referencia_comerciales_obj { }
+.css_ventas_label { }
+.css_ventas_line {text-align:left;}
+.css_ventas_obj {text-align:left;}
+.css_comisiones_label { }
+.css_comisiones_line {text-align:left;}
+.css_comisiones_obj {text-align:left;}
+.css_gastos_operativos_label { }
+.css_gastos_operativos_line {text-align:left;}
+.css_gastos_operativos_obj {text-align:left;}
+.css_gastos_administrativos_label { }
+.css_gastos_administrativos_line {text-align:left;}
+.css_gastos_administrativos_obj {text-align:left;}
+.css_pago_cuotas_prestamo_label { }
+.css_pago_cuotas_prestamo_line {text-align:left;}
+.css_pago_cuotas_prestamo_obj {text-align:left;}
+.css_funcionario_label { }
+.css_funcionario_line {text-align:left;}
+.css_funcionario_obj {text-align:left;}
+.css_funcionario_detalle_label { }
+.css_funcionario_detalle_line { }
+.css_funcionario_detalle_obj { }
+.css_miembro_politico_label { }
+.css_miembro_politico_line {text-align:left;}
+.css_miembro_politico_obj {text-align:left;}
+.css_miembro_politico_detalle_label { }
+.css_miembro_politico_detalle_line { }
+.css_miembro_politico_detalle_obj { }
+.css_ejecutivo_gobierno_label { }
+.css_ejecutivo_gobierno_line {text-align:left;}
+.css_ejecutivo_gobierno_obj {text-align:left;}
+.css_ejecutivo_gobierno_detalle_label { }
+.css_ejecutivo_gobierno_detalle_line { }
+.css_ejecutivo_gobierno_detalle_obj { }
+.css_familiar_gobierno_label { }
+.css_familiar_gobierno_line {text-align:left;}
+.css_familiar_gobierno_obj {text-align:left;}
+.css_familiar_gobierno_detalle_label { }
+.css_familiar_gobierno_detalle_line { }
+.css_familiar_gobierno_detalle_obj { }
+.css_familiar_gobierno_detalle_quien_label { }
+.css_familiar_gobierno_detalle_quien_line { }
+.css_familiar_gobierno_detalle_quien_obj { }
+.css_otros_ingresos_label { }
+.css_otros_ingresos_line { }
+.css_otros_ingresos_obj { }
+.css_otros_gastos_label { }
+.css_otros_gastos_line { }
+.css_otros_gastos_obj { }
+.css_otros_activos_label { }
+.css_otros_activos_line { }
+.css_otros_activos_obj { }
+.css_otras_obligaciones_label { }
+.css_otras_obligaciones_line { }
+.css_otras_obligaciones_obj { }
+.css_sector_direccion_empresa_label { }
+.css_sector_direccion_empresa_line { }
+.css_sector_direccion_empresa_obj { }
+.css_sector_direccion_empresa_correo_label { }
+.css_sector_direccion_empresa_correo_line { }
+.css_sector_direccion_empresa_correo_obj { }
+.css_extranjero_nombres_referencia_label { }
+.css_extranjero_nombres_referencia_line { }
+.css_extranjero_nombres_referencia_obj { }
+.css_extranjero_apellidos_referencia_label { }
+.css_extranjero_apellidos_referencia_line { }
+.css_extranjero_apellidos_referencia_obj { }
+.css_extranjero_parentesco_label { }
+.css_extranjero_parentesco_line { }
+.css_extranjero_parentesco_obj { }
+.css_extranjero_celular_ref_label { }
+.css_extranjero_celular_ref_line { }
+.css_extranjero_celular_ref_obj { }
+.css_extranjero_telefono_convencional_ref_label { }
+.css_extranjero_telefono_convencional_ref_line { }
+.css_extranjero_telefono_convencional_ref_obj { }
+.css_cargo_representante_legal_label { }
+.css_cargo_representante_legal_line { }
+.css_cargo_representante_legal_obj { }
+.css_direccion_extranjero_label { }
+.css_direccion_extranjero_line {text-align:left;}
+.css_direccion_extranjero_obj {text-align:left;}
+.css_relacion_dependencia_principal_label { }
+.css_relacion_dependencia_principal_line {text-align:left;}
+.css_relacion_dependencia_principal_obj {text-align:left;}
+.css_correo_corporativo_principal_label { }
+.css_correo_corporativo_principal_line { }
+.css_correo_corporativo_principal_obj { }
+.css_relacion_dependencia_secundaria_label { }
+.css_relacion_dependencia_secundaria_line {text-align:left;}
+.css_relacion_dependencia_secundaria_obj {text-align:left;}
+.css_correo_corporativo_secundario_label { }
+.css_correo_corporativo_secundario_line { }
+.css_correo_corporativo_secundario_obj { }
+.css_actividad_secundaria_label { }
+.css_actividad_secundaria_line {text-align:left;}
+.css_actividad_secundaria_obj {text-align:left;}
+.css_id_pais_empresa_label { }
+.css_id_pais_empresa_line { }
+.css_id_pais_empresa_obj { }
+.css_id_provincia_empresa_label { }
+.css_id_provincia_empresa_line { }
+.css_id_provincia_empresa_obj { }
+.css_id_pais_correo_label { }
+.css_id_pais_correo_line { }
+.css_id_pais_correo_obj { }
+.css_id_provincia_correo_label { }
+.css_id_provincia_correo_line { }
+.css_id_provincia_correo_obj { }
+.css_apellido_empresa_solicitante_label { }
+.css_apellido_empresa_solicitante_line { }
+.css_apellido_empresa_solicitante_obj { }
+.css_pais_actividad2_label { }
+.css_pais_actividad2_line { }
+.css_pais_actividad2_obj { }
+.css_id_provincia_exterior_label { }
+.css_id_provincia_exterior_line { }
+.css_id_provincia_exterior_obj { }
+.css_pais_independiente_label { }
+.css_pais_independiente_line { }
+.css_pais_independiente_obj { }
+.css_tipo_contrato_otros_actividad_principal_label { }
+.css_tipo_contrato_otros_actividad_principal_line { }
+.css_tipo_contrato_otros_actividad_principal_obj { }
+.css_actividadeconomica_label { }
+.css_actividadeconomica_line { }
+.css_actividadeconomica_obj { }
+.css_clasesujeto_label { }
+.css_clasesujeto_line { }
+.css_clasesujeto_obj { }
+.css_provincia_label { }
+.css_provincia_line { }
+.css_provincia_obj { }
+.css_parroquia_label { }
+.css_parroquia_line { }
+.css_parroquia_obj { }
+.css_canton_label { }
+.css_canton_line { }
+.css_canton_obj { }
+.css_demandajudicial_label { }
+.css_demandajudicial_line { }
+.css_demandajudicial_obj { }
+.css_vdemandajudicial_label { }
+.css_vdemandajudicial_line {text-align:left;}
+.css_vdemandajudicial_obj {text-align:left;}
+.css_carteracastigada_label { }
+.css_carteracastigada_line { }
+.css_carteracastigada_obj { }
+.css_vcarteracastigada_label { }
+.css_vcarteracastigada_line {text-align:left;}
+.css_vcarteracastigada_obj {text-align:left;}
+.css_accesoexterno01_label { }
+.css_accesoexterno01_line { }
+.css_accesoexterno01_obj { }
+.css_referencia_label { }
+.css_referencia_line { }
+.css_referencia_obj { }
+.css_id_pais_empleado_dir_desempeno_label { }
+.css_id_pais_empleado_dir_desempeno_line {text-align:left;}
+.css_id_pais_empleado_dir_desempeno_obj {text-align:left;}
+.css_id_provincia_empleado_dir_desempeno_label { }
+.css_id_provincia_empleado_dir_desempeno_line {text-align:left;}
+.css_id_provincia_empleado_dir_desempeno_obj {text-align:left;}
+.css_id_ciudad_empleado_dir_desempeno_label { }
+.css_id_ciudad_empleado_dir_desempeno_line {text-align:left;}
+.css_id_ciudad_empleado_dir_desempeno_obj {text-align:left;}
+.css_razon_social_label { }
+.css_razon_social_line { }
+.css_razon_social_obj { }
+.css_parterel01_label { }
+.css_parterel01_line { }
+.css_parterel01_obj { }
+.css_origen_fondos_label { }
+.css_origen_fondos_line { }
+.css_origen_fondos_obj { }
+.css_tipo_identificacion_label { }
+.css_tipo_identificacion_line { }
+.css_tipo_identificacion_obj { }
+.css_id_actividad_label { }
+.css_id_actividad_line { }
+.css_id_actividad_obj { }

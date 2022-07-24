@@ -1,0 +1,7 @@
+control_torno_entrada_mob.php
+pointofsales
+control_torno_entrada_mob
+NAO
+contr
+control_torno_entrada
+LigMd5

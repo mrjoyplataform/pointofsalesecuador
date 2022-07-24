@@ -1,0 +1,3 @@
+sys__NM__btn__NM__icono_persona.png
+grp__NM__ico__NM__money.png
+sys__NM__btn__NM__icono_smile.png

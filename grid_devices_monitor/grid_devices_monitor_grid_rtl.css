@@ -1,0 +1,54 @@
+.css_cod_device_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cod_device_grid_line {vertical-align: top;text-align: right;}
+.css_device_name_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_device_name_grid_line {vertical-align: top;text-align: right;}
+.css_ult_rfid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ult_rfid_grid_line {vertical-align: top;text-align: right;}
+.css_ult_fecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_ult_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_estado_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_estado_grid_line {vertical-align: top;text-align: right;}
+.css_segundos_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_segundos_grid_line {vertical-align: top;text-align: right;}
+.css_estado_online_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_estado_online_grid_line {vertical-align: top;text-align: right;}
+.css_cod_activo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cod_activo_grid_line {vertical-align: top;text-align: right;}
+.css_cod_grupo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cod_grupo_grid_line {vertical-align: top;text-align: right;}
+.css_activa_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_activa_grid_line {vertical-align: top;text-align: right;}
+.css_valor_default_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_default_grid_line {vertical-align: top;text-align: right;}
+.css_acepta_tiempo_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_acepta_tiempo_grid_line {vertical-align: top;text-align: right;}
+.css_acepta_tokens_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_acepta_tokens_grid_line {vertical-align: top;text-align: right;}
+.css_dev_ip_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_dev_ip_grid_line {vertical-align: top;text-align: right;}
+.css_tipo_dev_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tipo_dev_grid_line {vertical-align: top;text-align: right;}
+.css_direccion_torno_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_direccion_torno_grid_line {vertical-align: top;text-align: right;}
+.css_timeout_rfid_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_timeout_rfid_grid_line {vertical-align: top;text-align: right;}
+.css_discapacitado_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_discapacitado_grid_line {vertical-align: top;text-align: right;}
+.css_numcaja_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_numcaja_grid_line {vertical-align: top;text-align: right;}
+.css_empleado_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_empleado_grid_line {vertical-align: top;text-align: right;}
+.css_tokens_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tokens_grid_line {vertical-align: top;text-align: right;}
+.css_serialrfid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_serialrfid_grid_line {vertical-align: top;text-align: right;}
+.css_bidireccion_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_bidireccion_grid_line {vertical-align: top;text-align: right;}
+.css_cod_devicee_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cod_devicee_grid_line {vertical-align: top;text-align: right;}
+.css_url_1_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_url_1_grid_line {vertical-align: top;text-align: right;}
+.css_url_2_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_url_2_grid_line {vertical-align: top;text-align: right;}
+.css_url_3_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_url_3_grid_line {vertical-align: top;text-align: right;}

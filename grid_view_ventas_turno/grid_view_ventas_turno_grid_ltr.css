@@ -1,0 +1,18 @@
+.css_id_product_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_product_grid_line {vertical-align: top;text-align: left;}
+.css_quantity_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_quantity_grid_line {vertical-align: top;text-align: right;}
+.css_quantity_sub_tot {text-align: right;}
+.css_quantity_tot_ger {text-align: right;}
+.css_item_total_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_item_total_grid_line {vertical-align: top;text-align: right;}
+.css_item_total_sub_tot {text-align: right;}
+.css_item_total_tot_ger {text-align: right;}
+.css_idturno_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idturno_grid_line {vertical-align: top;text-align: right;}
+.css_serie_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_serie_grid_line {vertical-align: top;text-align: left;}
+.css_idcliente_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_idcliente_grid_line {vertical-align: top;text-align: left;}
+.css_idempleado_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_idempleado_grid_line {vertical-align: top;text-align: left;}

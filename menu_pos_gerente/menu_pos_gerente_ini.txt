@@ -1,0 +1,7 @@
+index.php
+pointofsales
+menu_pos_gerente
+NAO
+
+menu_pos_gerente
+LigMd5

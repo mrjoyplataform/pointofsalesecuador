@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_retorna_consulta_tarjeta
+NAO
+blank
+blank_retorna_consulta_tarjeta
+LigMd5

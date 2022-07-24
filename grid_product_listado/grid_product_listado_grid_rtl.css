@@ -1,0 +1,16 @@
+.css_product_code_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_product_code_grid_line {vertical-align: top;text-align: right;}
+.css_product_name_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_product_name_grid_line {vertical-align: top;text-align: right;}
+.css_stock_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_stock_grid_line {vertical-align: top;text-align: right;}
+.css_stock_sub_tot {text-align: right;}
+.css_stock_tot_ger {text-align: right;}
+.css_id_product_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_product_grid_line {vertical-align: top;text-align: right;}
+.css_id_status_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_id_status_grid_line {vertical-align: top;text-align: center;}
+.css_dateproduct_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_dateproduct_grid_line {vertical-align: top;text-align: center;}
+.css_product_value_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_product_value_grid_line {vertical-align: top;text-align: right;}

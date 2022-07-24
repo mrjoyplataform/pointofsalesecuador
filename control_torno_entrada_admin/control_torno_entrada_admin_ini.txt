@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_torno_entrada_admin
+NAO
+contr
+control_torno_entrada_admin
+LigMd5

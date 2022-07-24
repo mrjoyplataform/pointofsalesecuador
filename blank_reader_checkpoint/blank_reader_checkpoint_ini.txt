@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_reader_checkpoint
+NAO
+blank
+blank_reader_checkpoint
+LigMd5

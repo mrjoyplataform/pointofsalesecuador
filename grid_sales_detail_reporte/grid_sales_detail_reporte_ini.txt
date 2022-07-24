@@ -1,0 +1,7 @@
+index.php
+pointofsales
+grid_sales_detail_reporte
+NAO
+cons
+grid_sales_detail_reporte
+LigMd5

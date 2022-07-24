@@ -1,0 +1,1 @@
+dashboard_sucursal_odoo

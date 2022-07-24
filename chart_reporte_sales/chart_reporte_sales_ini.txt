@@ -1,0 +1,7 @@
+index.php
+pointofsales
+chart_reporte_sales
+NAO
+cons
+chart_reporte_sales
+LigMd5

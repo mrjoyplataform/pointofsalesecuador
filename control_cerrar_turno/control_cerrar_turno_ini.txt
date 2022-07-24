@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_cerrar_turno
+NAO
+contr
+control_cerrar_turno
+LigMd5

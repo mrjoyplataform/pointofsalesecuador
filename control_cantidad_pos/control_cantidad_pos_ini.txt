@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_cantidad_pos
+NAO
+contr
+control_cantidad_pos
+LigMd5

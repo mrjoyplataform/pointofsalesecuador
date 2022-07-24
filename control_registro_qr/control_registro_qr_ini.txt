@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_registro_qr
+NAO
+contr
+control_registro_qr
+LigMd5

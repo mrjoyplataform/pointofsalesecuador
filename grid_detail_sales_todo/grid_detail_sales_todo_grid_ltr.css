@@ -1,0 +1,32 @@
+.css_view_sales_detail_group_todo_fecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_view_sales_detail_group_todo_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_view_sales_detail_group_todo_cantidad_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_view_sales_detail_group_todo_cantidad_grid_line {vertical-align: top;text-align: right;}
+.css_view_sales_detail_group_todo_cantidad_sub_tot {text-align: right;}
+.css_view_sales_detail_group_todo_cantidad_tot_ger {text-align: right;}
+.css_view_sales_detail_group_todo_unit_value_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_view_sales_detail_group_todo_unit_value_grid_line {vertical-align: top;text-align: right;}
+.css_view_sales_detail_group_todo_producto_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_view_sales_detail_group_todo_producto_grid_line {vertical-align: top;text-align: left;}
+.css_valor_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_grid_line {vertical-align: top;text-align: right;}
+.css_valor_sub_tot {text-align: right;}
+.css_valor_tot_ger {text-align: right;}
+.css_view_sales_detail_group_todo_cuentaventa_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_view_sales_detail_group_todo_cuentaventa_grid_line {vertical-align: top;text-align: left;}
+.css_sales_idcliente_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_sales_idcliente_grid_line {vertical-align: top;text-align: left;}
+.css_sales_cliente_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_sales_cliente_grid_line {vertical-align: top;text-align: left;}
+.css_sales_factura_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_sales_factura_grid_line {vertical-align: top;text-align: right;}
+.css_customer_nombre_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_customer_nombre_grid_line {vertical-align: top;text-align: left;}
+.css_customer_correo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_customer_correo_grid_line {vertical-align: top;text-align: left;}
+.css_customer_celular_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_customer_celular_grid_line {vertical-align: top;text-align: left;}
+.css_customer_direccion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_customer_direccion_grid_line {vertical-align: top;text-align: left;}
+.css_customer_idcustomer_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_customer_idcustomer_grid_line {vertical-align: top;text-align: left;}

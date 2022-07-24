@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_select_formapago
+NAO
+contr
+control_select_formapago
+LigMd5

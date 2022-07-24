@@ -1,0 +1,7 @@
+index.php
+pointofsales
+dashboard_error_tarjeta
+NAO
+container
+dashboard_error_tarjeta
+LigMd5

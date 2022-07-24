@@ -1,0 +1,38 @@
+.css_id_product_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_product_grid_line {vertical-align: top;text-align: right;}
+.css_product_name_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_product_name_grid_line {vertical-align: top;text-align: right;}
+.css_quantity_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_quantity_grid_line {vertical-align: top;text-align: right;}
+.css_quantity_sub_tot {text-align: right;}
+.css_quantity_tot_ger {text-align: right;}
+.css_iddoc_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_iddoc_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_tipo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tipo_grid_line {vertical-align: top;text-align: right;}
+.css_unit_cost_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_unit_cost_grid_line {vertical-align: top;text-align: right;}
+.css_unit_cost_sub_tot {text-align: right;}
+.css_unit_cost_tot_ger {text-align: right;}
+.css_unit_venta_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_unit_venta_grid_line {vertical-align: top;text-align: right;}
+.css_unit_venta_sub_tot {text-align: right;}
+.css_unit_venta_tot_ger {text-align: right;}
+.css_costo_unit_venta_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_costo_unit_venta_grid_line {vertical-align: top;text-align: right;}
+.css_costo_unit_venta_sub_tot {text-align: right;}
+.css_costo_unit_venta_tot_ger {text-align: right;}
+.css_costo_compra_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_costo_compra_grid_line {vertical-align: top;text-align: right;}
+.css_costo_compra_sub_tot {text-align: right;}
+.css_costo_compra_tot_ger {text-align: right;}
+.css_valor_venta_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_venta_grid_line {vertical-align: top;text-align: right;}
+.css_valor_venta_sub_tot {text-align: right;}
+.css_valor_venta_tot_ger {text-align: right;}
+.css_costo_venta_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_costo_venta_grid_line {vertical-align: top;text-align: right;}
+.css_costo_venta_sub_tot {text-align: right;}
+.css_costo_venta_tot_ger {text-align: right;}

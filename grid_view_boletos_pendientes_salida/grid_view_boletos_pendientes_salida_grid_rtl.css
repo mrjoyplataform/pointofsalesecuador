@@ -1,0 +1,54 @@
+.css_qrboleto_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_qrboleto_grid_line {vertical-align: top;text-align: right;}
+.css_codrfid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codrfid_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_registro_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_registro_grid_line {vertical-align: top;text-align: center;}
+.css_uidtrans_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_uidtrans_grid_line {vertical-align: top;text-align: right;}
+.css_idsale_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idsale_grid_line {vertical-align: top;text-align: right;}
+.css_idproducto_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idproducto_grid_line {vertical-align: top;text-align: right;}
+.css_ultdevice_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_ultdevice_grid_line {vertical-align: top;text-align: right;}
+.css_ultfecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_ultfecha_grid_line {vertical-align: top;text-align: center;}
+.css_estado_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_estado_grid_line {vertical-align: top;text-align: right;}
+.css_nombre_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombre_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_nacimiento_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_nacimiento_grid_line {vertical-align: top;text-align: center;}
+.css_genero_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_genero_grid_line {vertical-align: top;text-align: right;}
+.css_username_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_username_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_activacion_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_activacion_grid_line {vertical-align: top;text-align: center;}
+.css_fecha_entrada_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_entrada_grid_line {vertical-align: top;text-align: center;}
+.css_fecha_salida_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_salida_grid_line {vertical-align: top;text-align: center;}
+.css_producto_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_producto_grid_line {vertical-align: top;text-align: right;}
+.css_entrada_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_entrada_grid_line {vertical-align: top;text-align: right;}
+.css_jugador_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_jugador_grid_line {vertical-align: top;text-align: right;}
+.css_visitante_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_visitante_grid_line {vertical-align: top;text-align: right;}
+.css_tarjeta_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tarjeta_grid_line {vertical-align: top;text-align: right;}
+.css_tokens_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tokens_grid_line {vertical-align: top;text-align: right;}
+.css_minutos_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_minutos_grid_line {vertical-align: top;text-align: right;}
+.css_comida_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_comida_grid_line {vertical-align: top;text-align: right;}
+.css_puntos_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_puntos_grid_line {vertical-align: top;text-align: right;}
+.css_registro_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_registro_grid_line {vertical-align: top;text-align: right;}
+.css_idchar_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idchar_grid_line {vertical-align: top;text-align: right;}

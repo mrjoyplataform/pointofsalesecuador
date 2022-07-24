@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_reader_arcade
+NAO
+blank
+blank_reader_arcade
+LigMd5

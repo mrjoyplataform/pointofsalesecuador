@@ -1,0 +1,34 @@
+.css_boletopic_label {text-align:left;}
+.css_boletopic_grid_line {background-color:#FFFFFF;}
+.css_qrboleto_label {text-align:left;}
+.css_qrboleto_grid_line {vertical-align: top;}
+.css_idproducto_label {text-align:left;}
+.css_idproducto_grid_line {vertical-align: top;}
+.css_characterpic_label {text-align:left;}
+.css_characterpic_grid_line {vertical-align: top;}
+.css_nombre_label {text-align:left;}
+.css_nombre_grid_line {vertical-align: top;}
+.css_edad_label {text-align:left;}
+.css_edad_grid_line {vertical-align: top;}
+.css_genero_label {text-align:left;}
+.css_genero_grid_line {font-size:10px;vertical-align: top;}
+.css_coin_label {text-align:left;}
+.css_coin_grid_line {}
+.css_puntos_label {text-align:left;}
+.css_puntos_grid_line {font-family:Arial, sans-serif;font-size:28px;font-weight:bold;vertical-align: top;}
+.css_fecha_registro_label {text-align:left;}
+.css_fecha_registro_grid_line {vertical-align: top;}
+.css_fecha_entrada_label {text-align:left;}
+.css_fecha_entrada_grid_line {vertical-align: top;}
+.css_fecha_salida_label {text-align:left;}
+.css_fecha_salida_grid_line {vertical-align: top;}
+.css_cliente_label {text-align:left;}
+.css_cliente_grid_line {vertical-align: top;}
+.css_idcliente_label {text-align:left;}
+.css_idcliente_grid_line {vertical-align: top;}
+.css_telefono_label {text-align:left;}
+.css_telefono_grid_line {vertical-align: top;}
+.css_cliente_email_label {text-align:left;}
+.css_cliente_email_grid_line {vertical-align: top;}
+.css_serie_label {text-align:left;}
+.css_serie_grid_line {vertical-align: top;}

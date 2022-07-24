@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_empleado_pos
+NAO
+contr
+control_empleado_pos
+LigMd5

@@ -1,0 +1,22 @@
+.css_minus_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_minus_grid_line {width: 45px;text-align: center;}
+.css_more_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_more_grid_line {width: 45px;text-align: center;}
+.css_quantity_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_quantity_grid_line {vertical-align: top;text-align: center;}
+.css_id_product_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_id_product_grid_line {vertical-align: top;text-align: right;}
+.css_unit_value_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_unit_value_grid_line {vertical-align: top;text-align: right;}
+.css_discount_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_discount_grid_line {vertical-align: top;text-align: right;}
+.css_item_total_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_item_total_grid_line {vertical-align: top;text-align: right;}
+.css_del_label {text-align:;vertical-align:middle;justify-content:;font-weight:bold;}
+.css_del_grid_line {text-align: center;}
+.css_id_sales_detail_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_sales_detail_grid_line {vertical-align: top;text-align: right;}
+.css_id_sales_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_sales_grid_line {vertical-align: top;text-align: right;}
+.css_unit_cost_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_unit_cost_grid_line {vertical-align: top;text-align: right;}

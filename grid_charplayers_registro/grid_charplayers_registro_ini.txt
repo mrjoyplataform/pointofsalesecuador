@@ -1,0 +1,7 @@
+index.php
+pointofsales
+grid_charplayers_registro
+NAO
+cons
+grid_charplayers_registro
+LigMd5

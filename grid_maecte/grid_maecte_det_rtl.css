@@ -1,0 +1,598 @@
+.css_codcte01_det_label {text-align: right;vertical-align: middle;}
+.css_codcte01_det_line {height:0px;text-align: right;}
+.css_tipo_cliente_det_label {text-align: right;vertical-align: middle;}
+.css_tipo_cliente_det_line {height:0px;text-align: right;}
+.css_id_nacionalidad_det_label {text-align: right;vertical-align: middle;}
+.css_id_nacionalidad_det_line {height:0px;text-align: right;}
+.css_nomcte01_det_label {text-align: right;vertical-align: middle;}
+.css_nomcte01_det_line {height:0px;text-align: right;}
+.css_primer_nombre_det_label {text-align: right;vertical-align: middle;}
+.css_primer_nombre_det_line {height:0px;text-align: right;}
+.css_segundo_nombre_det_label {text-align: right;vertical-align: middle;}
+.css_segundo_nombre_det_line {height:0px;text-align: right;}
+.css_primer_apellido_det_label {text-align: right;vertical-align: middle;}
+.css_primer_apellido_det_line {height:0px;text-align: right;}
+.css_segundo_apellido_det_label {text-align: right;vertical-align: middle;}
+.css_segundo_apellido_det_line {height:0px;text-align: right;}
+.css_cv1cte01_det_label {text-align: right;vertical-align: middle;}
+.css_cv1cte01_det_line {height:0px;text-align: right;}
+.css_cv2cte01_det_label {text-align: right;vertical-align: middle;}
+.css_cv2cte01_det_line {height:0px;text-align: right;}
+.css_tipcte01_det_label {text-align: right;vertical-align: middle;}
+.css_tipcte01_det_line {height:0px;text-align: right;}
+.css_ofienccte01_det_label {text-align: right;vertical-align: middle;}
+.css_ofienccte01_det_line {height:0px;text-align: right;}
+.css_vendcte01_det_label {text-align: right;vertical-align: middle;}
+.css_vendcte01_det_line {height:0px;text-align: right;}
+.css_cobrcte01_det_label {text-align: right;vertical-align: middle;}
+.css_cobrcte01_det_line {height:0px;text-align: right;}
+.css_loccte01_det_label {text-align: right;vertical-align: middle;}
+.css_loccte01_det_line {height:0px;text-align: right;}
+.css_dircte01_det_label {text-align: right;vertical-align: middle;}
+.css_dircte01_det_line {height:0px;text-align: right;}
+.css_sector_det_label {text-align: right;vertical-align: middle;}
+.css_sector_det_line {height:0px;text-align: right;}
+.css_calle_principal_det_label {text-align: right;vertical-align: middle;}
+.css_calle_principal_det_line {height:0px;text-align: right;}
+.css_no_det_label {text-align: right;vertical-align: middle;}
+.css_no_det_line {height:0px;text-align: right;}
+.css_calle_secundaria_det_label {text-align: right;vertical-align: middle;}
+.css_calle_secundaria_det_line {height:0px;text-align: right;}
+.css_id_pais_det_label {text-align: right;vertical-align: middle;}
+.css_id_pais_det_line {height:0px;text-align: right;}
+.css_id_provincia_det_label {text-align: right;vertical-align: middle;}
+.css_id_provincia_det_line {height:0px;text-align: right;}
+.css_id_ciudad_det_label {text-align: right;vertical-align: middle;}
+.css_id_ciudad_det_line {height:0px;text-align: right;}
+.css_id_canton_det_label {text-align: right;vertical-align: middle;}
+.css_id_canton_det_line {height:0px;text-align: right;}
+.css_telcte01_det_label {text-align: right;vertical-align: middle;}
+.css_telcte01_det_line {height:0px;text-align: right;}
+.css_cascte01_det_label {text-align: right;vertical-align: middle;}
+.css_cascte01_det_line {height:0px;text-align: right;}
+.css_ci_conyuge_det_label {text-align: right;vertical-align: middle;}
+.css_ci_conyuge_det_line {height:0px;text-align: right;}
+.css_conyuge_tipo_identidad_det_label {text-align: right;vertical-align: middle;}
+.css_conyuge_tipo_identidad_det_line {height:0px;text-align: right;}
+.css_conyuge_primer_nombre_det_label {text-align: right;vertical-align: middle;}
+.css_conyuge_primer_nombre_det_line {height:0px;text-align: right;}
+.css_conyuge_segundo_nombre_det_label {text-align: right;vertical-align: middle;}
+.css_conyuge_segundo_nombre_det_line {height:0px;text-align: right;}
+.css_conyuge_primer_apellido_det_label {text-align: right;vertical-align: middle;}
+.css_conyuge_primer_apellido_det_line {height:0px;text-align: right;}
+.css_conyuge_segundo_apellido_det_label {text-align: right;vertical-align: middle;}
+.css_conyuge_segundo_apellido_det_line {height:0px;text-align: right;}
+.css_conyuge_profesion_det_label {text-align: right;vertical-align: middle;}
+.css_conyuge_profesion_det_line {height:0px;text-align: right;}
+.css_id_tipo_documento_det_label {text-align: right;vertical-align: middle;}
+.css_id_tipo_documento_det_line {height:0px;text-align: right;}
+.css_repleg01_det_label {text-align: right;vertical-align: middle;}
+.css_repleg01_det_line {height:0px;text-align: right;}
+.css_fecing01_det_label {text-align: right;vertical-align: middle;}
+.css_fecing01_det_line {height:0px;text-align: right;}
+.css_condpag01_det_label {text-align: right;vertical-align: middle;}
+.css_condpag01_det_line {height:0px;text-align: right;}
+.css_desctocte01_det_label {text-align: right;vertical-align: middle;}
+.css_desctocte01_det_line {height:0px;text-align: right;}
+.css_limcred01_det_label {text-align: right;vertical-align: middle;}
+.css_limcred01_det_line {height:0px;text-align: right;}
+.css_desppar01_det_label {text-align: right;vertical-align: middle;}
+.css_desppar01_det_line {height:0px;text-align: right;}
+.css_cheqpro01_det_label {text-align: right;vertical-align: middle;}
+.css_cheqpro01_det_line {height:0px;text-align: right;}
+.css_sdoeje01_det_label {text-align: right;vertical-align: middle;}
+.css_sdoeje01_det_line {height:0px;text-align: right;}
+.css_sdoant01_det_label {text-align: right;vertical-align: middle;}
+.css_sdoant01_det_line {height:0px;text-align: right;}
+.css_sdoact01_det_label {text-align: right;vertical-align: middle;}
+.css_sdoact01_det_line {height:0px;text-align: right;}
+.css_acudbm01_det_label {text-align: right;vertical-align: middle;}
+.css_acudbm01_det_line {height:0px;text-align: right;}
+.css_acucrm01_det_label {text-align: right;vertical-align: middle;}
+.css_acucrm01_det_line {height:0px;text-align: right;}
+.css_acudbe01_det_label {text-align: right;vertical-align: middle;}
+.css_acudbe01_det_line {height:0px;text-align: right;}
+.css_acucre01_det_label {text-align: right;vertical-align: middle;}
+.css_acucre01_det_line {height:0px;text-align: right;}
+.css_comentcte01_det_label {text-align: right;vertical-align: middle;}
+.css_comentcte01_det_line {height:0px;text-align: right;}
+.css_statuscte01_det_label {text-align: right;vertical-align: middle;}
+.css_statuscte01_det_line {height:0px;text-align: right;}
+.css_identcte01_det_label {text-align: right;vertical-align: middle;}
+.css_identcte01_det_line {height:0px;text-align: right;}
+.css_cordcte01_det_label {text-align: right;vertical-align: middle;}
+.css_cordcte01_det_line {height:0px;text-align: right;}
+.css_limcant01_det_label {text-align: right;vertical-align: middle;}
+.css_limcant01_det_line {height:0px;text-align: right;}
+.css_pagleg01_det_label {text-align: right;vertical-align: middle;}
+.css_pagleg01_det_line {height:0px;text-align: right;}
+.css_telcte01b_det_label {text-align: right;vertical-align: middle;}
+.css_telcte01b_det_line {height:0px;text-align: right;}
+.css_telcte01c_det_label {text-align: right;vertical-align: middle;}
+.css_telcte01c_det_line {height:0px;text-align: right;}
+.css_emailcte01_det_label {text-align: right;vertical-align: middle;}
+.css_emailcte01_det_line {height:0px;text-align: right;}
+.css_calle_principal_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_calle_principal_exterior_det_line {height:0px;text-align: right;}
+.css_no_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_no_exterior_det_line {height:0px;text-align: right;}
+.css_calle_secundaria_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_calle_secundaria_exterior_det_line {height:0px;text-align: right;}
+.css_id_pais_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_id_pais_exterior_det_line {height:0px;text-align: right;}
+.css_id_ciudad_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_id_ciudad_exterior_det_line {height:0px;text-align: right;}
+.css_codigo_postal_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_codigo_postal_exterior_det_line {height:0px;text-align: right;}
+.css_sector_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_sector_exterior_det_line {height:0px;text-align: right;}
+.css_telefono_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_telefono_exterior_det_line {height:0px;text-align: right;}
+.css_celular_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_celular_exterior_det_line {height:0px;text-align: right;}
+.css_email_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_email_exterior_det_line {height:0px;text-align: right;}
+.css_emailaltcte01_det_label {text-align: right;vertical-align: middle;}
+.css_emailaltcte01_det_line {height:0px;text-align: right;}
+.css_ctacgcte01_det_label {text-align: right;vertical-align: middle;}
+.css_ctacgcte01_det_line {height:0px;text-align: right;}
+.css_obsercte01_det_label {text-align: right;vertical-align: middle;}
+.css_obsercte01_det_line {height:0px;text-align: right;}
+.css_totexceso01_det_label {text-align: right;vertical-align: middle;}
+.css_totexceso01_det_line {height:0px;text-align: right;}
+.css_imagencte01_det_label {text-align: right;vertical-align: middle;}
+.css_imagencte01_det_line {height:0px;text-align: right;}
+.css_block_det_label {text-align: right;vertical-align: middle;}
+.css_block_det_line {height:0px;text-align: right;}
+.css_uid_det_label {text-align: right;vertical-align: middle;}
+.css_uid_det_line {height:0px;text-align: right;}
+.css_ultimoacceso_det_label {text-align: right;vertical-align: middle;}
+.css_ultimoacceso_det_line {height:0px;text-align: right;}
+.css_idcli_det_label {text-align: right;vertical-align: middle;}
+.css_idcli_det_line {height:0px;text-align: right;}
+.css_catcte01_det_label {text-align: right;vertical-align: middle;}
+.css_catcte01_det_line {height:0px;text-align: right;}
+.css_transferido_det_label {text-align: right;vertical-align: middle;}
+.css_transferido_det_line {height:0px;text-align: right;}
+.css_password_det_label {text-align: right;vertical-align: middle;}
+.css_password_det_line {height:0px;text-align: right;}
+.css_showroom_det_label {text-align: right;vertical-align: middle;}
+.css_showroom_det_line {height:0px;text-align: right;}
+.css_orden_det_label {text-align: right;vertical-align: middle;}
+.css_orden_det_line {height:0px;text-align: right;}
+.css_website_det_label {text-align: right;vertical-align: middle;}
+.css_website_det_line {height:0px;text-align: right;}
+.css_longitud01_det_label {text-align: right;vertical-align: middle;}
+.css_longitud01_det_line {height:0px;text-align: right;}
+.css_latitud01_det_label {text-align: right;vertical-align: middle;}
+.css_latitud01_det_line {height:0px;text-align: right;}
+.css_zoom01_det_label {text-align: right;vertical-align: middle;}
+.css_zoom01_det_line {height:0px;text-align: right;}
+.css_acceder_det_label {text-align: right;vertical-align: middle;}
+.css_acceder_det_line {height:0px;text-align: right;}
+.css_coniva01_det_label {text-align: right;vertical-align: middle;}
+.css_coniva01_det_line {height:0px;text-align: right;}
+.css_idemp01_det_label {text-align: right;vertical-align: middle;}
+.css_idemp01_det_line {height:0px;text-align: right;}
+.css_codprov01_det_label {text-align: right;vertical-align: middle;}
+.css_codprov01_det_line {height:0px;text-align: right;}
+.css_celular01_det_label {text-align: right;vertical-align: middle;}
+.css_celular01_det_line {height:0px;text-align: right;}
+.css_dircliente01_det_label {text-align: right;vertical-align: middle;}
+.css_dircliente01_det_line {height:0px;text-align: right;}
+.css_razcte01_det_label {text-align: right;vertical-align: middle;}
+.css_razcte01_det_line {height:0px;text-align: right;}
+.css_ruc01_det_label {text-align: right;vertical-align: middle;}
+.css_ruc01_det_line {height:0px;text-align: right;}
+.css_timenegocio01_det_label {text-align: right;vertical-align: middle;}
+.css_timenegocio01_det_line {height:0px;text-align: right;}
+.css_refbanc01_det_label {text-align: right;vertical-align: middle;}
+.css_refbanc01_det_line {height:0px;text-align: right;}
+.css_refcom01_det_label {text-align: right;vertical-align: middle;}
+.css_refcom01_det_line {height:0px;text-align: right;}
+.css_tarjcred01_det_label {text-align: right;vertical-align: middle;}
+.css_tarjcred01_det_line {height:0px;text-align: right;}
+.css_firmaut01_det_label {text-align: right;vertical-align: middle;}
+.css_firmaut01_det_line {height:0px;text-align: right;}
+.css_precte01_det_label {text-align: right;vertical-align: middle;}
+.css_precte01_det_line {height:0px;text-align: right;}
+.css_cuotasven01_det_label {text-align: right;vertical-align: middle;}
+.css_cuotasven01_det_line {height:0px;text-align: right;}
+.css_diasven01_det_label {text-align: right;vertical-align: middle;}
+.css_diasven01_det_line {height:0px;text-align: right;}
+.css_fechanace01_det_label {text-align: right;vertical-align: middle;}
+.css_fechanace01_det_line {height:0px;text-align: right;}
+.css_sexo01_det_label {text-align: right;vertical-align: middle;}
+.css_sexo01_det_line {height:0px;text-align: right;}
+.css_estadocivil01_det_label {text-align: right;vertical-align: middle;}
+.css_estadocivil01_det_line {height:0px;text-align: right;}
+.css_dirgestion01_det_label {text-align: right;vertical-align: middle;}
+.css_dirgestion01_det_line {height:0px;text-align: right;}
+.css_numhijos01_det_label {text-align: right;vertical-align: middle;}
+.css_numhijos01_det_line {height:0px;text-align: right;}
+.css_estsop01_det_label {text-align: right;vertical-align: middle;}
+.css_estsop01_det_line {height:0px;text-align: right;}
+.css_notick01_det_label {text-align: right;vertical-align: middle;}
+.css_notick01_det_line {height:0px;text-align: right;}
+.css_chequece_det_label {text-align: right;vertical-align: middle;}
+.css_chequece_det_line {height:0px;text-align: right;}
+.css_solcre_det_label {text-align: right;vertical-align: middle;}
+.css_solcre_det_line {height:0px;text-align: right;}
+.css_promocte01_det_label {text-align: right;vertical-align: middle;}
+.css_promocte01_det_line {height:0px;text-align: right;}
+.css_pagare01_det_label {text-align: right;vertical-align: middle;}
+.css_pagare01_det_line {height:0px;text-align: right;}
+.css_valorpagare01_det_label {text-align: right;vertical-align: middle;}
+.css_valorpagare01_det_line {height:0px;text-align: right;}
+.css_garante01_det_label {text-align: right;vertical-align: middle;}
+.css_garante01_det_line {height:0px;text-align: right;}
+.css_fecvenp01_det_label {text-align: right;vertical-align: middle;}
+.css_fecvenp01_det_line {height:0px;text-align: right;}
+.css_ctacgant01_det_label {text-align: right;vertical-align: middle;}
+.css_ctacgant01_det_line {height:0px;text-align: right;}
+.css_dsn_det_label {text-align: right;vertical-align: middle;}
+.css_dsn_det_line {height:0px;text-align: right;}
+.css_residente_det_label {text-align: right;vertical-align: middle;}
+.css_residente_det_line {height:0px;text-align: right;}
+.css_medio_contacto_det_label {text-align: right;vertical-align: middle;}
+.css_medio_contacto_det_line {height:0px;text-align: right;}
+.css_separacion_bienes_det_label {text-align: right;vertical-align: middle;}
+.css_separacion_bienes_det_line {height:0px;text-align: right;}
+.css_disolucion_conyugal_det_label {text-align: right;vertical-align: middle;}
+.css_disolucion_conyugal_det_line {height:0px;text-align: right;}
+.css_capitulaciones_det_label {text-align: right;vertical-align: middle;}
+.css_capitulaciones_det_line {height:0px;text-align: right;}
+.css_numero_carga_familiar_det_label {text-align: right;vertical-align: middle;}
+.css_numero_carga_familiar_det_line {height:0px;text-align: right;}
+.css_nivel_educacion_det_label {text-align: right;vertical-align: middle;}
+.css_nivel_educacion_det_line {height:0px;text-align: right;}
+.css_profesion_det_label {text-align: right;vertical-align: middle;}
+.css_profesion_det_line {height:0px;text-align: right;}
+.css_envio_correspondencia_det_label {text-align: right;vertical-align: middle;}
+.css_envio_correspondencia_det_line {height:0px;text-align: right;}
+.css_nombre_arrendador_det_label {text-align: right;vertical-align: middle;}
+.css_nombre_arrendador_det_line {height:0px;text-align: right;}
+.css_apellido_arrendador_det_label {text-align: right;vertical-align: middle;}
+.css_apellido_arrendador_det_line {height:0px;text-align: right;}
+.css_id_vivienda_det_label {text-align: right;vertical-align: middle;}
+.css_id_vivienda_det_line {height:0px;text-align: right;}
+.css_telefono_arrendador_det_label {text-align: right;vertical-align: middle;}
+.css_telefono_arrendador_det_line {height:0px;text-align: right;}
+.css_nombres_referencia_det_label {text-align: right;vertical-align: middle;}
+.css_nombres_referencia_det_line {height:0px;text-align: right;}
+.css_apellidos_referencia_det_label {text-align: right;vertical-align: middle;}
+.css_apellidos_referencia_det_line {height:0px;text-align: right;}
+.css_parentesco_det_label {text-align: right;vertical-align: middle;}
+.css_parentesco_det_line {height:0px;text-align: right;}
+.css_celular_ref_det_label {text-align: right;vertical-align: middle;}
+.css_celular_ref_det_line {height:0px;text-align: right;}
+.css_telefono_convencional_ref_det_label {text-align: right;vertical-align: middle;}
+.css_telefono_convencional_ref_det_line {height:0px;text-align: right;}
+.css_id_ocupacion_det_label {text-align: right;vertical-align: middle;}
+.css_id_ocupacion_det_line {height:0px;text-align: right;}
+.css_fecha_ingreso_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_ingreso_empresa_det_line {height:0px;text-align: right;}
+.css_nombre_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_nombre_empresa_det_line {height:0px;text-align: right;}
+.css_ciudad_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_ciudad_empresa_det_line {height:0px;text-align: right;}
+.css_provincia_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_provincia_empresa_det_line {height:0px;text-align: right;}
+.css_direccion_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_direccion_empresa_det_line {height:0px;text-align: right;}
+.css_cargo_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_cargo_empresa_det_line {height:0px;text-align: right;}
+.css_telefono_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_telefono_empresa_det_line {height:0px;text-align: right;}
+.css_ext_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_ext_empresa_det_line {height:0px;text-align: right;}
+.css_id_tipo_contrato_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_id_tipo_contrato_actividad_det_line {height:0px;text-align: right;}
+.css_empresa_jubilo_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_empresa_jubilo_actividad_det_line {height:0px;text-align: right;}
+.css_fecha_salida_empresa_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_salida_empresa_actividad_det_line {height:0px;text-align: right;}
+.css_cargo_salida_empresa_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_cargo_salida_empresa_actividad_det_line {height:0px;text-align: right;}
+.css_fecha_inicio_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_inicio_actividad_det_line {height:0px;text-align: right;}
+.css_fecha_ingreso_empresa_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_ingreso_empresa_actividad_det_line {height:0px;text-align: right;}
+.css_nombre_empresa_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_nombre_empresa_actividad_det_line {height:0px;text-align: right;}
+.css_institucion_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_institucion_actividad_det_line {height:0px;text-align: right;}
+.css_ciudad_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_ciudad_actividad_det_line {height:0px;text-align: right;}
+.css_provincia_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_provincia_actividad_det_line {height:0px;text-align: right;}
+.css_direccion_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_direccion_actividad_det_line {height:0px;text-align: right;}
+.css_calle_principal_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_calle_principal_actividad_det_line {height:0px;text-align: right;}
+.css_no_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_no_actividad_det_line {height:0px;text-align: right;}
+.css_calle_secundaria_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_calle_secundaria_actividad_det_line {height:0px;text-align: right;}
+.css_sector_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_sector_actividad_det_line {height:0px;text-align: right;}
+.css_pais_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_pais_actividad_det_line {height:0px;text-align: right;}
+.css_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_actividad_det_line {height:0px;text-align: right;}
+.css_telefono_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_telefono_actividad_det_line {height:0px;text-align: right;}
+.css_cargo_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_cargo_actividad_det_line {height:0px;text-align: right;}
+.css_ext_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_ext_actividad_det_line {height:0px;text-align: right;}
+.css_fecha_ingreso_empresa_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_ingreso_empresa_actividad2_det_line {height:0px;text-align: right;}
+.css_nombre_empresa_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_nombre_empresa_actividad2_det_line {height:0px;text-align: right;}
+.css_institucion_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_institucion_actividad2_det_line {height:0px;text-align: right;}
+.css_ciudad_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_ciudad_actividad2_det_line {height:0px;text-align: right;}
+.css_provincia_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_provincia_actividad2_det_line {height:0px;text-align: right;}
+.css_direccion_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_direccion_actividad2_det_line {height:0px;text-align: right;}
+.css_calle_principal_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_calle_principal_actividad2_det_line {height:0px;text-align: right;}
+.css_no_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_no_actividad2_det_line {height:0px;text-align: right;}
+.css_calle_secundaria_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_calle_secundaria_actividad2_det_line {height:0px;text-align: right;}
+.css_sector_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_sector_actividad2_det_line {height:0px;text-align: right;}
+.css_fecha_salida_empresa_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_salida_empresa_actividad2_det_line {height:0px;text-align: right;}
+.css_fecha_inicio_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_inicio_actividad2_det_line {height:0px;text-align: right;}
+.css_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_actividad2_det_line {height:0px;text-align: right;}
+.css_telefono_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_telefono_actividad2_det_line {height:0px;text-align: right;}
+.css_ext_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_ext_actividad2_det_line {height:0px;text-align: right;}
+.css_cargo_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_cargo_actividad2_det_line {height:0px;text-align: right;}
+.css_id_tipo_contrato_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_id_tipo_contrato_actividad2_det_line {height:0px;text-align: right;}
+.css_empresa_jubilo_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_empresa_jubilo_actividad2_det_line {height:0px;text-align: right;}
+.css_sueldo_det_label {text-align: right;vertical-align: middle;}
+.css_sueldo_det_line {height:0px;text-align: right;}
+.css_arriendos_det_label {text-align: right;vertical-align: middle;}
+.css_arriendos_det_line {height:0px;text-align: right;}
+.css_dividendo_utilidades_ultimo_ano_det_label {text-align: right;vertical-align: middle;}
+.css_dividendo_utilidades_ultimo_ano_det_line {height:0px;text-align: right;}
+.css_id_otros_ingresos_det_label {text-align: right;vertical-align: middle;}
+.css_id_otros_ingresos_det_line {height:0px;text-align: right;}
+.css_arriendo_hipoteca_det_label {text-align: right;vertical-align: middle;}
+.css_arriendo_hipoteca_det_line {height:0px;text-align: right;}
+.css_prestamos_det_label {text-align: right;vertical-align: middle;}
+.css_prestamos_det_line {height:0px;text-align: right;}
+.css_tarjetas_creditos_det_label {text-align: right;vertical-align: middle;}
+.css_tarjetas_creditos_det_line {height:0px;text-align: right;}
+.css_gastos_familiares_det_label {text-align: right;vertical-align: middle;}
+.css_gastos_familiares_det_line {height:0px;text-align: right;}
+.css_id_otros_gastos_det_label {text-align: right;vertical-align: middle;}
+.css_id_otros_gastos_det_line {height:0px;text-align: right;}
+.css_depositos_bancos_det_label {text-align: right;vertical-align: middle;}
+.css_depositos_bancos_det_line {height:0px;text-align: right;}
+.css_cuentas_documentos_det_label {text-align: right;vertical-align: middle;}
+.css_cuentas_documentos_det_line {height:0px;text-align: right;}
+.css_mercaderias_det_label {text-align: right;vertical-align: middle;}
+.css_mercaderias_det_line {height:0px;text-align: right;}
+.css_maquinarias_vehiculos_det_label {text-align: right;vertical-align: middle;}
+.css_maquinarias_vehiculos_det_line {height:0px;text-align: right;}
+.css_terrenos_edificios_det_label {text-align: right;vertical-align: middle;}
+.css_terrenos_edificios_det_line {height:0px;text-align: right;}
+.css_acciones_bonos_cedulas_det_label {text-align: right;vertical-align: middle;}
+.css_acciones_bonos_cedulas_det_line {height:0px;text-align: right;}
+.css_id_otros_activos_det_label {text-align: right;vertical-align: middle;}
+.css_id_otros_activos_det_line {height:0px;text-align: right;}
+.css_cuentas_por_pagar_det_label {text-align: right;vertical-align: middle;}
+.css_cuentas_por_pagar_det_line {height:0px;text-align: right;}
+.css_prestamos_banco_menos_ano_det_label {text-align: right;vertical-align: middle;}
+.css_prestamos_banco_menos_ano_det_line {height:0px;text-align: right;}
+.css_prestamos_banco_mas_ano_det_label {text-align: right;vertical-align: middle;}
+.css_prestamos_banco_mas_ano_det_line {height:0px;text-align: right;}
+.css_deudas_tarjetas_creditos_det_label {text-align: right;vertical-align: middle;}
+.css_deudas_tarjetas_creditos_det_line {height:0px;text-align: right;}
+.css_id_otras_obligaciones_det_label {text-align: right;vertical-align: middle;}
+.css_id_otras_obligaciones_det_line {height:0px;text-align: right;}
+.css_deudor_det_label {text-align: right;vertical-align: middle;}
+.css_deudor_det_line {height:0px;text-align: right;}
+.css_monto_det_label {text-align: right;vertical-align: middle;}
+.css_monto_det_line {height:0px;text-align: right;}
+.css_descripcion_det_label {text-align: right;vertical-align: middle;}
+.css_descripcion_det_line {height:0px;text-align: right;}
+.css_placa_det_label {text-align: right;vertical-align: middle;}
+.css_placa_det_line {height:0px;text-align: right;}
+.css_valor_maquinaria_vehiculo_det_label {text-align: right;vertical-align: middle;}
+.css_valor_maquinaria_vehiculo_det_line {height:0px;text-align: right;}
+.css_a_nombre_de_det_label {text-align: right;vertical-align: middle;}
+.css_a_nombre_de_det_line {height:0px;text-align: right;}
+.css_ubicacion_det_label {text-align: right;vertical-align: middle;}
+.css_ubicacion_det_line {height:0px;text-align: right;}
+.css_valor_propiedad_det_label {text-align: right;vertical-align: middle;}
+.css_valor_propiedad_det_line {height:0px;text-align: right;}
+.css_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_empresa_det_line {height:0px;text-align: right;}
+.css_valor_mercado_det_label {text-align: right;vertical-align: middle;}
+.css_valor_mercado_det_line {height:0px;text-align: right;}
+.css_institucion_bancaria_det_label {text-align: right;vertical-align: middle;}
+.css_institucion_bancaria_det_line {height:0px;text-align: right;}
+.css_monto_banco_det_label {text-align: right;vertical-align: middle;}
+.css_monto_banco_det_line {height:0px;text-align: right;}
+.css_institucion_finaciera_det_label {text-align: right;vertical-align: middle;}
+.css_institucion_finaciera_det_line {height:0px;text-align: right;}
+.css_monto_institucion_finaciera_det_label {text-align: right;vertical-align: middle;}
+.css_monto_institucion_finaciera_det_line {height:0px;text-align: right;}
+.css_id_cliente_juridico_det_label {text-align: right;vertical-align: middle;}
+.css_id_cliente_juridico_det_line {height:0px;text-align: right;}
+.css_nombre_completo_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_nombre_completo_empresa_det_line {height:0px;text-align: right;}
+.css_es_empresa_extranjera_det_label {text-align: right;vertical-align: middle;}
+.css_es_empresa_extranjera_det_line {height:0px;text-align: right;}
+.css_pais_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_pais_empresa_det_line {height:0px;text-align: right;}
+.css_fecha_constitucion_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_constitucion_empresa_det_line {height:0px;text-align: right;}
+.css_id_oficina_det_label {text-align: right;vertical-align: middle;}
+.css_id_oficina_det_line {height:0px;text-align: right;}
+.css_id_tipo_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_id_tipo_actividad_det_line {height:0px;text-align: right;}
+.css_especifique_otros_det_label {text-align: right;vertical-align: middle;}
+.css_especifique_otros_det_line {height:0px;text-align: right;}
+.css_direccion_correspondencia_det_label {text-align: right;vertical-align: middle;}
+.css_direccion_correspondencia_det_line {height:0px;text-align: right;}
+.css_calle_principal_correspondencia_det_label {text-align: right;vertical-align: middle;}
+.css_calle_principal_correspondencia_det_line {height:0px;text-align: right;}
+.css_no_correspondencia_det_label {text-align: right;vertical-align: middle;}
+.css_no_correspondencia_det_line {height:0px;text-align: right;}
+.css_calle_secundaria_correspondencia_det_label {text-align: right;vertical-align: middle;}
+.css_calle_secundaria_correspondencia_det_line {height:0px;text-align: right;}
+.css_id_ciudad_correspondencia_det_label {text-align: right;vertical-align: middle;}
+.css_id_ciudad_correspondencia_det_line {height:0px;text-align: right;}
+.css_nombre_empresa_solicitante_det_label {text-align: right;vertical-align: middle;}
+.css_nombre_empresa_solicitante_det_line {height:0px;text-align: right;}
+.css_cargo_empresa_solicitante_det_label {text-align: right;vertical-align: middle;}
+.css_cargo_empresa_solicitante_det_line {height:0px;text-align: right;}
+.css_celular_empresa_solicitante_det_label {text-align: right;vertical-align: middle;}
+.css_celular_empresa_solicitante_det_line {height:0px;text-align: right;}
+.css_telefono_empresa_solicitante_det_label {text-align: right;vertical-align: middle;}
+.css_telefono_empresa_solicitante_det_line {height:0px;text-align: right;}
+.css_mail_empresa_solicitante_det_label {text-align: right;vertical-align: middle;}
+.css_mail_empresa_solicitante_det_line {height:0px;text-align: right;}
+.css_saldo_empresa_solicitante_det_label {text-align: right;vertical-align: middle;}
+.css_saldo_empresa_solicitante_det_line {height:0px;text-align: right;}
+.css_nombre_referencia_comerciales_det_label {text-align: right;vertical-align: middle;}
+.css_nombre_referencia_comerciales_det_line {height:0px;text-align: right;}
+.css_fecha_compra_det_label {text-align: right;vertical-align: middle;}
+.css_fecha_compra_det_line {height:0px;text-align: right;}
+.css_telefono_referencia_comerciales_det_label {text-align: right;vertical-align: middle;}
+.css_telefono_referencia_comerciales_det_line {height:0px;text-align: right;}
+.css_ventas_det_label {text-align: right;vertical-align: middle;}
+.css_ventas_det_line {height:0px;text-align: right;}
+.css_comisiones_det_label {text-align: right;vertical-align: middle;}
+.css_comisiones_det_line {height:0px;text-align: right;}
+.css_gastos_operativos_det_label {text-align: right;vertical-align: middle;}
+.css_gastos_operativos_det_line {height:0px;text-align: right;}
+.css_gastos_administrativos_det_label {text-align: right;vertical-align: middle;}
+.css_gastos_administrativos_det_line {height:0px;text-align: right;}
+.css_pago_cuotas_prestamo_det_label {text-align: right;vertical-align: middle;}
+.css_pago_cuotas_prestamo_det_line {height:0px;text-align: right;}
+.css_funcionario_det_label {text-align: right;vertical-align: middle;}
+.css_funcionario_det_line {height:0px;text-align: right;}
+.css_funcionario_detalle_det_label {text-align: right;vertical-align: middle;}
+.css_funcionario_detalle_det_line {height:0px;text-align: right;}
+.css_miembro_politico_det_label {text-align: right;vertical-align: middle;}
+.css_miembro_politico_det_line {height:0px;text-align: right;}
+.css_miembro_politico_detalle_det_label {text-align: right;vertical-align: middle;}
+.css_miembro_politico_detalle_det_line {height:0px;text-align: right;}
+.css_ejecutivo_gobierno_det_label {text-align: right;vertical-align: middle;}
+.css_ejecutivo_gobierno_det_line {height:0px;text-align: right;}
+.css_ejecutivo_gobierno_detalle_det_label {text-align: right;vertical-align: middle;}
+.css_ejecutivo_gobierno_detalle_det_line {height:0px;text-align: right;}
+.css_familiar_gobierno_det_label {text-align: right;vertical-align: middle;}
+.css_familiar_gobierno_det_line {height:0px;text-align: right;}
+.css_familiar_gobierno_detalle_det_label {text-align: right;vertical-align: middle;}
+.css_familiar_gobierno_detalle_det_line {height:0px;text-align: right;}
+.css_familiar_gobierno_detalle_quien_det_label {text-align: right;vertical-align: middle;}
+.css_familiar_gobierno_detalle_quien_det_line {height:0px;text-align: right;}
+.css_otros_ingresos_det_label {text-align: right;vertical-align: middle;}
+.css_otros_ingresos_det_line {height:0px;text-align: right;}
+.css_otros_gastos_det_label {text-align: right;vertical-align: middle;}
+.css_otros_gastos_det_line {height:0px;text-align: right;}
+.css_otros_activos_det_label {text-align: right;vertical-align: middle;}
+.css_otros_activos_det_line {height:0px;text-align: right;}
+.css_otras_obligaciones_det_label {text-align: right;vertical-align: middle;}
+.css_otras_obligaciones_det_line {height:0px;text-align: right;}
+.css_sector_direccion_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_sector_direccion_empresa_det_line {height:0px;text-align: right;}
+.css_sector_direccion_empresa_correo_det_label {text-align: right;vertical-align: middle;}
+.css_sector_direccion_empresa_correo_det_line {height:0px;text-align: right;}
+.css_extranjero_nombres_referencia_det_label {text-align: right;vertical-align: middle;}
+.css_extranjero_nombres_referencia_det_line {height:0px;text-align: right;}
+.css_extranjero_apellidos_referencia_det_label {text-align: right;vertical-align: middle;}
+.css_extranjero_apellidos_referencia_det_line {height:0px;text-align: right;}
+.css_extranjero_parentesco_det_label {text-align: right;vertical-align: middle;}
+.css_extranjero_parentesco_det_line {height:0px;text-align: right;}
+.css_extranjero_celular_ref_det_label {text-align: right;vertical-align: middle;}
+.css_extranjero_celular_ref_det_line {height:0px;text-align: right;}
+.css_extranjero_telefono_convencional_ref_det_label {text-align: right;vertical-align: middle;}
+.css_extranjero_telefono_convencional_ref_det_line {height:0px;text-align: right;}
+.css_cargo_representante_legal_det_label {text-align: right;vertical-align: middle;}
+.css_cargo_representante_legal_det_line {height:0px;text-align: right;}
+.css_direccion_extranjero_det_label {text-align: right;vertical-align: middle;}
+.css_direccion_extranjero_det_line {height:0px;text-align: right;}
+.css_relacion_dependencia_principal_det_label {text-align: right;vertical-align: middle;}
+.css_relacion_dependencia_principal_det_line {height:0px;text-align: right;}
+.css_correo_corporativo_principal_det_label {text-align: right;vertical-align: middle;}
+.css_correo_corporativo_principal_det_line {height:0px;text-align: right;}
+.css_relacion_dependencia_secundaria_det_label {text-align: right;vertical-align: middle;}
+.css_relacion_dependencia_secundaria_det_line {height:0px;text-align: right;}
+.css_correo_corporativo_secundario_det_label {text-align: right;vertical-align: middle;}
+.css_correo_corporativo_secundario_det_line {height:0px;text-align: right;}
+.css_actividad_secundaria_det_label {text-align: right;vertical-align: middle;}
+.css_actividad_secundaria_det_line {height:0px;text-align: right;}
+.css_id_pais_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_id_pais_empresa_det_line {height:0px;text-align: right;}
+.css_id_provincia_empresa_det_label {text-align: right;vertical-align: middle;}
+.css_id_provincia_empresa_det_line {height:0px;text-align: right;}
+.css_id_pais_correo_det_label {text-align: right;vertical-align: middle;}
+.css_id_pais_correo_det_line {height:0px;text-align: right;}
+.css_id_provincia_correo_det_label {text-align: right;vertical-align: middle;}
+.css_id_provincia_correo_det_line {height:0px;text-align: right;}
+.css_apellido_empresa_solicitante_det_label {text-align: right;vertical-align: middle;}
+.css_apellido_empresa_solicitante_det_line {height:0px;text-align: right;}
+.css_pais_actividad2_det_label {text-align: right;vertical-align: middle;}
+.css_pais_actividad2_det_line {height:0px;text-align: right;}
+.css_id_provincia_exterior_det_label {text-align: right;vertical-align: middle;}
+.css_id_provincia_exterior_det_line {height:0px;text-align: right;}
+.css_pais_independiente_det_label {text-align: right;vertical-align: middle;}
+.css_pais_independiente_det_line {height:0px;text-align: right;}
+.css_tipo_contrato_otros_actividad_principal_det_label {text-align: right;vertical-align: middle;}
+.css_tipo_contrato_otros_actividad_principal_det_line {height:0px;text-align: right;}
+.css_actividadeconomica_det_label {text-align: right;vertical-align: middle;}
+.css_actividadeconomica_det_line {height:0px;text-align: right;}
+.css_clasesujeto_det_label {text-align: right;vertical-align: middle;}
+.css_clasesujeto_det_line {height:0px;text-align: right;}
+.css_provincia_det_label {text-align: right;vertical-align: middle;}
+.css_provincia_det_line {height:0px;text-align: right;}
+.css_parroquia_det_label {text-align: right;vertical-align: middle;}
+.css_parroquia_det_line {height:0px;text-align: right;}
+.css_canton_det_label {text-align: right;vertical-align: middle;}
+.css_canton_det_line {height:0px;text-align: right;}
+.css_demandajudicial_det_label {text-align: right;vertical-align: middle;}
+.css_demandajudicial_det_line {height:0px;text-align: right;}
+.css_vdemandajudicial_det_label {text-align: right;vertical-align: middle;}
+.css_vdemandajudicial_det_line {height:0px;text-align: right;}
+.css_carteracastigada_det_label {text-align: right;vertical-align: middle;}
+.css_carteracastigada_det_line {height:0px;text-align: right;}
+.css_vcarteracastigada_det_label {text-align: right;vertical-align: middle;}
+.css_vcarteracastigada_det_line {height:0px;text-align: right;}
+.css_accesoexterno01_det_label {text-align: right;vertical-align: middle;}
+.css_accesoexterno01_det_line {height:0px;text-align: right;}
+.css_referencia_det_label {text-align: right;vertical-align: middle;}
+.css_referencia_det_line {height:0px;text-align: right;}
+.css_id_pais_empleado_dir_desempeno_det_label {text-align: right;vertical-align: middle;}
+.css_id_pais_empleado_dir_desempeno_det_line {height:0px;text-align: right;}
+.css_id_provincia_empleado_dir_desempeno_det_label {text-align: right;vertical-align: middle;}
+.css_id_provincia_empleado_dir_desempeno_det_line {height:0px;text-align: right;}
+.css_id_ciudad_empleado_dir_desempeno_det_label {text-align: right;vertical-align: middle;}
+.css_id_ciudad_empleado_dir_desempeno_det_line {height:0px;text-align: right;}
+.css_razon_social_det_label {text-align: right;vertical-align: middle;}
+.css_razon_social_det_line {height:0px;text-align: right;}
+.css_parterel01_det_label {text-align: right;vertical-align: middle;}
+.css_parterel01_det_line {height:0px;text-align: right;}
+.css_origen_fondos_det_label {text-align: right;vertical-align: middle;}
+.css_origen_fondos_det_line {height:0px;text-align: right;}
+.css_tipo_identificacion_det_label {text-align: right;vertical-align: middle;}
+.css_tipo_identificacion_det_line {height:0px;text-align: right;}
+.css_id_actividad_det_label {text-align: right;vertical-align: middle;}
+.css_id_actividad_det_line {height:0px;text-align: right;}

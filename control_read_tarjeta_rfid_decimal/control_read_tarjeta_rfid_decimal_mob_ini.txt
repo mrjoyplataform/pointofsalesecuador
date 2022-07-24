@@ -1,0 +1,7 @@
+control_read_tarjeta_rfid_decimal_mob.php
+pointofsales
+control_read_tarjeta_rfid_decimal_mob
+NAO
+contr
+control_read_tarjeta_rfid_decimal
+LigMd5

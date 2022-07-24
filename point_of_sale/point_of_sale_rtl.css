@@ -1,0 +1,21 @@
+.css_qty_label {width:50px;height:32px;}
+.css_qty_line {font-size:16px;width:50px;height:32px;}
+.css_qty_obj {font-size:16px;text-align:right;width:50px;height:32px;}
+.css_product_label {width:150px;height:32px;}
+.css_product_line {width:150px;height:32px;}
+.css_product_obj {font-size:16px;width:90%;height:32px;}
+.css_total_label {width:150px;height:32px;}
+.css_total_line {width:150px;height:32px;}
+.css_total_obj {font-size:16px;font-weight:bold;text-align:right;width:96%;height:32px;}
+.css_lbl_product_label {font-size:16px;font-weight:bold;height:16px;}
+.css_lbl_product_line {font-size:16px;font-weight:bold;height:16px;}
+.css_lbl_product_obj {font-size:16px;font-weight:bold;height:16px;}
+.css_ord_value_label { }
+.css_ord_value_line { }
+.css_ord_value_obj {text-align:right;width:96%;}
+.css_ord_discount_label { }
+.css_ord_discount_line { }
+.css_ord_discount_obj {text-align:right;width:96%;}
+.css_p_img_label { }
+.css_p_img_line { }
+.css_p_img_obj { }

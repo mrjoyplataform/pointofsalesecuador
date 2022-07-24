@@ -1,0 +1,7 @@
+index.php
+pointofsales
+dashboard_inicio
+NAO
+container
+dashboard_inicio
+LigMd5

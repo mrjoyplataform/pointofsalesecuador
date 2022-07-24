@@ -1,0 +1,35 @@
+.css_numero_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_numero_grid_line {vertical-align: top;text-align: left;}
+.css_fecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_documento_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_documento_grid_line {vertical-align: top;text-align: left;}
+.css_razon_social_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_razon_social_grid_line {vertical-align: top;text-align: left;}
+.css_estado_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_estado_grid_line {vertical-align: top;text-align: left;}
+.css_total_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_grid_line {vertical-align: top;text-align: right;}
+.css_total_sin_iva_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_sin_iva_grid_line {vertical-align: top;text-align: right;}
+.css_total_con_iva_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_con_iva_grid_line {vertical-align: top;text-align: right;}
+.css_iva_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_iva_grid_line {vertical-align: top;text-align: right;}
+.css_ice_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_ice_grid_line {vertical-align: top;text-align: right;}
+.css_descuentos_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_descuentos_grid_line {vertical-align: top;text-align: right;}
+.css_correo_electronico_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_correo_electronico_grid_line {vertical-align: top;text-align: left;}
+.css_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}
+.css_codigo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codigo_grid_line {vertical-align: top;text-align: left;}
+.css_establecimiento_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_establecimiento_grid_line {vertical-align: top;text-align: left;}
+.css_punto_emision_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_punto_emision_grid_line {vertical-align: top;text-align: left;}
+.css_secuencial_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_secuencial_grid_line {vertical-align: top;text-align: left;}
+.css_detalle_grid_line {text-align: center;}

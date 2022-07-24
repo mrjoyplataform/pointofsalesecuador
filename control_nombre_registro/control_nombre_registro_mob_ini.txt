@@ -1,0 +1,7 @@
+control_nombre_registro_mob.php
+pointofsales
+control_nombre_registro_mob
+NAO
+contr
+control_nombre_registro
+LigMd5

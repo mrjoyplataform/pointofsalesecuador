@@ -1,0 +1,7 @@
+index.php
+pointofsales
+dashboard_califica_home
+NAO
+container
+dashboard_califica_home
+LigMd5

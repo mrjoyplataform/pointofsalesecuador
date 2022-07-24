@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_torno_entrada
+NAO
+blank
+blank_torno_entrada
+LigMd5

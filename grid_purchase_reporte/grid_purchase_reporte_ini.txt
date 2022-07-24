@@ -1,0 +1,7 @@
+index.php
+pointofsales
+grid_purchase_reporte
+NAO
+cons
+grid_purchase_reporte
+LigMd5

@@ -1,0 +1,7 @@
+control_read_tarjeta_rfid_nueva_mob.php
+pointofsales
+control_read_tarjeta_rfid_nueva_mob
+NAO
+contr
+control_read_tarjeta_rfid_nueva
+LigMd5

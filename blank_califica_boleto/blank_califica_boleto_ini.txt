@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_califica_boleto
+NAO
+blank
+blank_califica_boleto
+LigMd5

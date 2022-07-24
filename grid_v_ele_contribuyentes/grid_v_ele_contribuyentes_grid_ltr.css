@@ -1,0 +1,12 @@
+.css_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}
+.css_razon_social_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_razon_social_grid_line {vertical-align: top;text-align: left;}
+.css_nombre_comercial_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombre_comercial_grid_line {vertical-align: top;text-align: left;}
+.css_ruc_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_ruc_grid_line {vertical-align: top;text-align: left;}
+.css_direccion_matriz_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_direccion_matriz_grid_line {vertical-align: top;text-align: left;}
+.css_obligado_contabilidad_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_obligado_contabilidad_grid_line {vertical-align: top;text-align: left;}

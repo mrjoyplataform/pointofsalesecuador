@@ -1,0 +1,14 @@
+.css_fecha_registro_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_registro_grid_line {vertical-align: top;text-align: center;}
+.css_cantidad_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cantidad_grid_line {vertical-align: top;text-align: right;}
+.css_codproducto_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codproducto_grid_line {vertical-align: top;text-align: right;}
+.css_codempleado_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codempleado_grid_line {vertical-align: top;text-align: right;}
+.css_codrfid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codrfid_grid_line {vertical-align: top;text-align: right;}
+.css_estado_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_estado_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_activacion_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_activacion_grid_line {vertical-align: top;text-align: center;}

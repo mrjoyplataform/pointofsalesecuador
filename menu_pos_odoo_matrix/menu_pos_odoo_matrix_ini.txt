@@ -1,0 +1,7 @@
+index.php
+pointofsales
+menu_pos_odoo_matrix
+NAO
+
+menu_pos_odoo_matrix
+LigMd5

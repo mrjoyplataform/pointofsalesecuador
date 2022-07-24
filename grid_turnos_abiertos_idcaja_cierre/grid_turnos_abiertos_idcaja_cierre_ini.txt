@@ -1,0 +1,7 @@
+index.php
+pointofsales
+grid_turnos_abiertos_idcaja_cierre
+NAO
+cons
+grid_turnos_abiertos_idcaja_cierre
+LigMd5

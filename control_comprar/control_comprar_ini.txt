@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_comprar
+NAO
+contr
+control_comprar
+LigMd5

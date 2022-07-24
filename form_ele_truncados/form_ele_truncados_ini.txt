@@ -1,0 +1,7 @@
+index.php
+pointofsales
+form_ele_truncados
+NAO
+form
+form_ele_truncados
+LigMd5

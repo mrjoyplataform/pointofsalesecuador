@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_acepta_terminos
+NAO
+contr
+control_acepta_terminos
+LigMd5

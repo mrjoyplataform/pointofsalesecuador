@@ -1,0 +1,21 @@
+.css_numero_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_numero_grid_line {vertical-align: top;text-align: right;}
+.css_documento_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_documento_grid_line {vertical-align: top;text-align: right;}
+.css_razon_social_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_razon_social_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_total_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_total_grid_line {vertical-align: top;text-align: right;}
+.css_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}
+.css_codigo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codigo_grid_line {vertical-align: top;text-align: right;}
+.css_codigo_documento_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codigo_documento_grid_line {vertical-align: top;text-align: right;}
+.css_establecimiento_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_establecimiento_grid_line {vertical-align: top;text-align: right;}
+.css_punto_emision_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_punto_emision_grid_line {vertical-align: top;text-align: right;}
+.css_edocumento_grid_line {text-align: center;}

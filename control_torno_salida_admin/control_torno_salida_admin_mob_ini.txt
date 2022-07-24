@@ -1,0 +1,7 @@
+control_torno_salida_admin_mob.php
+pointofsales
+control_torno_salida_admin_mob
+NAO
+contr
+control_torno_salida_admin
+LigMd5

@@ -1,0 +1,417 @@
+.css_rp01noemp_label { }
+.css_rp01noemp_line { }
+.css_rp01noemp_obj { }
+.css_rp01division_label { }
+.css_rp01division_line { }
+.css_rp01division_obj { }
+.css_rp01depto_label { }
+.css_rp01depto_line { }
+.css_rp01depto_obj { }
+.css_rp01seccion_label { }
+.css_rp01seccion_line { }
+.css_rp01seccion_obj { }
+.css_rp01noemp1_label { }
+.css_rp01noemp1_line { }
+.css_rp01noemp1_obj { }
+.css_rp01nombreemp_label { }
+.css_rp01nombreemp_line { }
+.css_rp01nombreemp_obj { }
+.css_rp01categoria_label { }
+.css_rp01categoria_line { }
+.css_rp01categoria_obj { }
+.css_rp01turno_label { }
+.css_rp01turno_line { }
+.css_rp01turno_obj { }
+.css_rp01statusemp_label { }
+.css_rp01statusemp_line { }
+.css_rp01statusemp_obj { }
+.css_rp01fechastatus_label { }
+.css_rp01fechastatus_line { }
+.css_rp01fechastatus_obj { }
+.css_rp01causaretiro_label { }
+.css_rp01causaretiro_line { }
+.css_rp01causaretiro_obj { }
+.css_rp01direccion_label { }
+.css_rp01direccion_line { }
+.css_rp01direccion_obj { }
+.css_rp01telefono_label { }
+.css_rp01telefono_line { }
+.css_rp01telefono_obj { }
+.css_rp01lugarnacimiento_label { }
+.css_rp01lugarnacimiento_line { }
+.css_rp01lugarnacimiento_obj { }
+.css_rp01fechanacimiento_label { }
+.css_rp01fechanacimiento_line { }
+.css_rp01fechanacimiento_obj { }
+.css_rp01nacionalidad_label { }
+.css_rp01nacionalidad_line { }
+.css_rp01nacionalidad_obj { }
+.css_rp01cedula_label { }
+.css_rp01cedula_line { }
+.css_rp01cedula_obj { }
+.css_rp01noiess_label { }
+.css_rp01noiess_line { }
+.css_rp01noiess_obj { }
+.css_rp01sexo_label { }
+.css_rp01sexo_line {text-align:left;}
+.css_rp01sexo_obj {text-align:left;}
+.css_rp01nolibreta_label { }
+.css_rp01nolibreta_line { }
+.css_rp01nolibreta_obj { }
+.css_rp01profesion_label { }
+.css_rp01profesion_line { }
+.css_rp01profesion_obj { }
+.css_rp01fechaingreso_label { }
+.css_rp01fechaingreso_line { }
+.css_rp01fechaingreso_obj { }
+.css_rp01fechareingreso_label { }
+.css_rp01fechareingreso_line { }
+.css_rp01fechareingreso_obj { }
+.css_rp01cargo_label { }
+.css_rp01cargo_line { }
+.css_rp01cargo_obj { }
+.css_rp01estadocivil_label { }
+.css_rp01estadocivil_line { }
+.css_rp01estadocivil_obj { }
+.css_rp01rebajaxcasado_label { }
+.css_rp01rebajaxcasado_line { }
+.css_rp01rebajaxcasado_obj { }
+.css_rp01nombreconyuge_label { }
+.css_rp01nombreconyuge_line { }
+.css_rp01nombreconyuge_obj { }
+.css_rp01nombrepadre_label { }
+.css_rp01nombrepadre_line { }
+.css_rp01nombrepadre_obj { }
+.css_rp01nombremadre_label { }
+.css_rp01nombremadre_line { }
+.css_rp01nombremadre_obj { }
+.css_rp01nohijos_label { }
+.css_rp01nohijos_line {text-align:left;}
+.css_rp01nohijos_obj {text-align:left;}
+.css_rp01fechahijos0_label { }
+.css_rp01fechahijos0_line { }
+.css_rp01fechahijos0_obj { }
+.css_rp01sexohijos0_label { }
+.css_rp01sexohijos0_line {text-align:left;}
+.css_rp01sexohijos0_obj {text-align:left;}
+.css_rp01fechahijos1_label { }
+.css_rp01fechahijos1_line { }
+.css_rp01fechahijos1_obj { }
+.css_rp01sexohijos1_label { }
+.css_rp01sexohijos1_line {text-align:left;}
+.css_rp01sexohijos1_obj {text-align:left;}
+.css_rp01fechahijos2_label { }
+.css_rp01fechahijos2_line { }
+.css_rp01fechahijos2_obj { }
+.css_rp01sexohijos2_label { }
+.css_rp01sexohijos2_line {text-align:left;}
+.css_rp01sexohijos2_obj {text-align:left;}
+.css_rp01fechahijos3_label { }
+.css_rp01fechahijos3_line { }
+.css_rp01fechahijos3_obj { }
+.css_rp01sexohijos3_label { }
+.css_rp01sexohijos3_line {text-align:left;}
+.css_rp01sexohijos3_obj {text-align:left;}
+.css_rp01fechahijos4_label { }
+.css_rp01fechahijos4_line { }
+.css_rp01fechahijos4_obj { }
+.css_rp01sexohijos4_label { }
+.css_rp01sexohijos4_line {text-align:left;}
+.css_rp01sexohijos4_obj {text-align:left;}
+.css_rp01fechahijos5_label { }
+.css_rp01fechahijos5_line { }
+.css_rp01fechahijos5_obj { }
+.css_rp01sexohijos5_label { }
+.css_rp01sexohijos5_line {text-align:left;}
+.css_rp01sexohijos5_obj {text-align:left;}
+.css_rp01fechahijos6_label { }
+.css_rp01fechahijos6_line { }
+.css_rp01fechahijos6_obj { }
+.css_rp01sexohijos6_label { }
+.css_rp01sexohijos6_line {text-align:left;}
+.css_rp01sexohijos6_obj {text-align:left;}
+.css_rp01fechahijos7_label { }
+.css_rp01fechahijos7_line { }
+.css_rp01fechahijos7_obj { }
+.css_rp01sexohijos7_label { }
+.css_rp01sexohijos7_line {text-align:left;}
+.css_rp01sexohijos7_obj {text-align:left;}
+.css_rp01fechahijos8_label { }
+.css_rp01fechahijos8_line { }
+.css_rp01fechahijos8_obj { }
+.css_rp01sexohijos8_label { }
+.css_rp01sexohijos8_line {text-align:left;}
+.css_rp01sexohijos8_obj {text-align:left;}
+.css_rp01fechahijos9_label { }
+.css_rp01fechahijos9_line { }
+.css_rp01fechahijos9_obj { }
+.css_rp01sexohijos9_label { }
+.css_rp01sexohijos9_line {text-align:left;}
+.css_rp01sexohijos9_obj {text-align:left;}
+.css_rp01cargaspadres_label { }
+.css_rp01cargaspadres_line { }
+.css_rp01cargaspadres_obj { }
+.css_rp01otrascargas_label { }
+.css_rp01otrascargas_line { }
+.css_rp01otrascargas_obj { }
+.css_rp01formapago_label { }
+.css_rp01formapago_line { }
+.css_rp01formapago_obj { }
+.css_rp01nobancoemp_label { }
+.css_rp01nobancoemp_line { }
+.css_rp01nobancoemp_obj { }
+.css_rp01ctabancoemp_label { }
+.css_rp01ctabancoemp_line { }
+.css_rp01ctabancoemp_obj { }
+.css_rp01tipoctabco_label { }
+.css_rp01tipoctabco_line { }
+.css_rp01tipoctabco_obj { }
+.css_rp01fechaultvacacion_label { }
+.css_rp01fechaultvacacion_line { }
+.css_rp01fechaultvacacion_obj { }
+.css_rp01aporte_label { }
+.css_rp01aporte_line { }
+.css_rp01aporte_obj { }
+.css_rp01socio_label { }
+.css_rp01socio_line { }
+.css_rp01socio_obj { }
+.css_rp01transporte_label { }
+.css_rp01transporte_line { }
+.css_rp01transporte_obj { }
+.css_rp01recibeporc_label { }
+.css_rp01recibeporc_line { }
+.css_rp01recibeporc_obj { }
+.css_rp01sueldoanterior_label { }
+.css_rp01sueldoanterior_line {text-align:left;}
+.css_rp01sueldoanterior_obj {text-align:left;}
+.css_rp01sueldosalario_label { }
+.css_rp01sueldosalario_line {text-align:left;}
+.css_rp01sueldosalario_obj {text-align:left;}
+.css_rp01fecmodsdosal_label { }
+.css_rp01fecmodsdosal_line { }
+.css_rp01fecmodsdosal_obj { }
+.css_rp01fecmodficha_label { }
+.css_rp01fecmodficha_line { }
+.css_rp01fecmodficha_obj { }
+.css_rp01faltasinjust_label { }
+.css_rp01faltasinjust_line {text-align:left;}
+.css_rp01faltasinjust_obj {text-align:left;}
+.css_rp01ingresos1er_label { }
+.css_rp01ingresos1er_line {text-align:left;}
+.css_rp01ingresos1er_obj {text-align:left;}
+.css_rp01basesocialvalor_label { }
+.css_rp01basesocialvalor_line {text-align:left;}
+.css_rp01basesocialvalor_obj {text-align:left;}
+.css_rp01basesocialtiempo_label { }
+.css_rp01basesocialtiempo_line {text-align:left;}
+.css_rp01basesocialtiempo_obj {text-align:left;}
+.css_rp0114vopagoacum_label { }
+.css_rp0114vopagoacum_line {text-align:left;}
+.css_rp0114vopagoacum_obj {text-align:left;}
+.css_rp0115vopagoacum_label { }
+.css_rp0115vopagoacum_line {text-align:left;}
+.css_rp0115vopagoacum_obj {text-align:left;}
+.css_rp01cverrorliq_label { }
+.css_rp01cverrorliq_line { }
+.css_rp01cverrorliq_obj { }
+.css_rp01porcentliq_label { }
+.css_rp01porcentliq_line {text-align:left;}
+.css_rp01porcentliq_obj {text-align:left;}
+.css_rp01tiposangre_label { }
+.css_rp01tiposangre_line { }
+.css_rp01tiposangre_obj { }
+.css_rp01ingresos2do_label { }
+.css_rp01ingresos2do_line {text-align:left;}
+.css_rp01ingresos2do_obj {text-align:left;}
+.css_rp01provdiremp_label { }
+.css_rp01provdiremp_line { }
+.css_rp01provdiremp_obj { }
+.css_rp01cantondiremp_label { }
+.css_rp01cantondiremp_line { }
+.css_rp01cantondiremp_obj { }
+.css_rp01ciudaddiremp_label { }
+.css_rp01ciudaddiremp_line { }
+.css_rp01ciudaddiremp_obj { }
+.css_rp01codocupacion_label { }
+.css_rp01codocupacion_line { }
+.css_rp01codocupacion_obj { }
+.css_uid_label { }
+.css_uid_line {text-align:left;}
+.css_uid_obj {text-align:left;}
+.css_block_label { }
+.css_block_line {text-align:left;}
+.css_block_obj {text-align:left;}
+.css_ultimoacceso_label { }
+.css_ultimoacceso_line { }
+.css_ultimoacceso_obj { }
+.css_rp01foto_label { }
+.css_rp01foto_line { }
+.css_rp01foto_obj { }
+.css_rp01ctacontable_label { }
+.css_rp01ctacontable_line { }
+.css_rp01ctacontable_obj { }
+.css_rp01email_label { }
+.css_rp01email_line { }
+.css_rp01email_obj { }
+.css_rp01passwd_label { }
+.css_rp01passwd_line { }
+.css_rp01passwd_obj { }
+.css_rp01huella_label { }
+.css_rp01huella_line { }
+.css_rp01huella_obj { }
+.css_rp01recibefr_label { }
+.css_rp01recibefr_line { }
+.css_rp01recibefr_obj { }
+.css_rp01recibedt_label { }
+.css_rp01recibedt_line { }
+.css_rp01recibedt_obj { }
+.css_rp01recibedc_label { }
+.css_rp01recibedc_line { }
+.css_rp01recibedc_obj { }
+.css_rp01uid_label { }
+.css_rp01uid_line {text-align:left;}
+.css_rp01uid_obj {text-align:left;}
+.css_rp01fechauid_label { }
+.css_rp01fechauid_line { }
+.css_rp01fechauid_obj { }
+.css_rp01obs_label { }
+.css_rp01obs_line { }
+.css_rp01obs_obj { }
+.css_rp01cauliq_label { }
+.css_rp01cauliq_line { }
+.css_rp01cauliq_obj { }
+.css_rp01discapacidad_label { }
+.css_rp01discapacidad_line { }
+.css_rp01discapacidad_obj { }
+.css_rp01conadis_label { }
+.css_rp01conadis_line { }
+.css_rp01conadis_obj { }
+.css_rp01tpdiscapacidad_label { }
+.css_rp01tpdiscapacidad_line { }
+.css_rp01tpdiscapacidad_obj { }
+.css_rp01prdiscapacidad_label { }
+.css_rp01prdiscapacidad_line {text-align:left;}
+.css_rp01prdiscapacidad_obj {text-align:left;}
+.css_rp01freserva_label { }
+.css_rp01freserva_line { }
+.css_rp01freserva_obj { }
+.css_rp01codsectorial_label { }
+.css_rp01codsectorial_line { }
+.css_rp01codsectorial_obj { }
+.css_anticipoporvalor_label { }
+.css_anticipoporvalor_line { }
+.css_anticipoporvalor_obj { }
+.css_tipidret_label { }
+.css_tipidret_line { }
+.css_tipidret_obj { }
+.css_residenciatrab_label { }
+.css_residenciatrab_line { }
+.css_residenciatrab_obj { }
+.css_paisresidencia_label { }
+.css_paisresidencia_line { }
+.css_paisresidencia_obj { }
+.css_aplicaconvenio_label { }
+.css_aplicaconvenio_line { }
+.css_aplicaconvenio_obj { }
+.css_tipotrabajdiscap_label { }
+.css_tipotrabajdiscap_line { }
+.css_tipotrabajdiscap_obj { }
+.css_porcentajediscap_label { }
+.css_porcentajediscap_line { }
+.css_porcentajediscap_obj { }
+.css_tipiddiscap_label { }
+.css_tipiddiscap_line { }
+.css_tipiddiscap_obj { }
+.css_iddiscap_label { }
+.css_iddiscap_line { }
+.css_iddiscap_obj { }
+.css_rp01varias_secciones_label { }
+.css_rp01varias_secciones_line { }
+.css_rp01varias_secciones_obj { }
+.css_rp01cc_label { }
+.css_rp01cc_line {text-align:left;}
+.css_rp01cc_obj {text-align:left;}
+.css_rp01observacion_label { }
+.css_rp01observacion_line { }
+.css_rp01observacion_obj { }
+.css_rp01iessconyugue_label { }
+.css_rp01iessconyugue_line { }
+.css_rp01iessconyugue_obj { }
+.css_rp01tiporefrigerio_label { }
+.css_rp01tiporefrigerio_line { }
+.css_rp01tiporefrigerio_obj { }
+.css_idiomas_label { }
+.css_idiomas_line {text-align:left;}
+.css_idiomas_obj {text-align:left;}
+.css_emergencias_label { }
+.css_emergencias_line {text-align:left;}
+.css_emergencias_obj {text-align:left;}
+.css_rp01tipojornada_label { }
+.css_rp01tipojornada_line { }
+.css_rp01tipojornada_obj { }
+.css_rp01numero_horas_label { }
+.css_rp01numero_horas_line {text-align:left;}
+.css_rp01numero_horas_obj {text-align:left;}
+.css_rp01emailpersonal_label { }
+.css_rp01emailpersonal_line { }
+.css_rp01emailpersonal_obj { }
+.css_rp01supervisadopor_label { }
+.css_rp01supervisadopor_line { }
+.css_rp01supervisadopor_obj { }
+.css_rp01zonaderiesgo_label { }
+.css_rp01zonaderiesgo_line { }
+.css_rp01zonaderiesgo_obj { }
+.css_rp01refpersnom1_label { }
+.css_rp01refpersnom1_line { }
+.css_rp01refpersnom1_obj { }
+.css_rp01refpersparen1_label { }
+.css_rp01refpersparen1_line { }
+.css_rp01refpersparen1_obj { }
+.css_rp01refperstel1_label { }
+.css_rp01refperstel1_line { }
+.css_rp01refperstel1_obj { }
+.css_rp01refpersnom2_label { }
+.css_rp01refpersnom2_line { }
+.css_rp01refpersnom2_obj { }
+.css_rp01refpersparen2_label { }
+.css_rp01refpersparen2_line { }
+.css_rp01refpersparen2_obj { }
+.css_rp01refperstel2_label { }
+.css_rp01refperstel2_line { }
+.css_rp01refperstel2_obj { }
+.css_rp01tipovivienda_label { }
+.css_rp01tipovivienda_line { }
+.css_rp01tipovivienda_obj { }
+.css_rp01serviciosbasicos_label { }
+.css_rp01serviciosbasicos_line { }
+.css_rp01serviciosbasicos_obj { }
+.css_rp01viviendadetalle_label { }
+.css_rp01viviendadetalle_line { }
+.css_rp01viviendadetalle_obj { }
+.css_rp01dormitorios_label { }
+.css_rp01dormitorios_line {text-align:left;}
+.css_rp01dormitorios_obj {text-align:left;}
+.css_rp01sala_label { }
+.css_rp01sala_line {text-align:left;}
+.css_rp01sala_obj {text-align:left;}
+.css_rp01comedor_label { }
+.css_rp01comedor_line {text-align:left;}
+.css_rp01comedor_obj {text-align:left;}
+.css_rp01banos_label { }
+.css_rp01banos_line {text-align:left;}
+.css_rp01banos_obj {text-align:left;}
+.css_rp01estudiosrealizados_label { }
+.css_rp01estudiosrealizados_line { }
+.css_rp01estudiosrealizados_obj { }
+.css_rp01ruta1_label { }
+.css_rp01ruta1_line { }
+.css_rp01ruta1_obj { }
+.css_rp01ruta2_label { }
+.css_rp01ruta2_line { }
+.css_rp01ruta2_obj { }
+.css_rp01ruta3_label { }
+.css_rp01ruta3_line { }
+.css_rp01ruta3_obj { }
+.css_rp01actividadesextras_label { }
+.css_rp01actividadesextras_line { }
+.css_rp01actividadesextras_obj { }

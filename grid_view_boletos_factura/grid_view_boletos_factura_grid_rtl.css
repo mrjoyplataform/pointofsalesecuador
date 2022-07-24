@@ -1,0 +1,20 @@
+.css_qrboleto_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_qrboleto_grid_line {vertical-align: top;text-align: right;}
+.css_idproducto_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idproducto_grid_line {color:#FFFFFF;font-style:italic;vertical-align: top;text-align: right;}
+.css_fecha_registro_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_registro_grid_line {vertical-align: top;text-align: center;}
+.css_fecha_entrada_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_entrada_grid_line {vertical-align: top;text-align: center;}
+.css_fecha_salida_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_salida_grid_line {vertical-align: top;text-align: center;}
+.css_codrfid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codrfid_grid_line {vertical-align: top;text-align: right;}
+.css_factura_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_factura_grid_line {vertical-align: top;text-align: right;}
+.css_cliente_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cliente_grid_line {vertical-align: top;text-align: right;}
+.css_uidtrans_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_uidtrans_grid_line {vertical-align: top;text-align: right;}
+.css_idsale_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idsale_grid_line {vertical-align: top;text-align: right;}

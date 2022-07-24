@@ -1,0 +1,7 @@
+index.php
+pointofsales
+dashboard_pago_tarjeta_kiosko
+NAO
+container
+dashboard_pago_tarjeta_kiosko
+LigMd5

@@ -1,0 +1,7 @@
+control_califica_selecciona_mob.php
+pointofsales
+control_califica_selecciona_mob
+NAO
+contr
+control_califica_selecciona
+LigMd5

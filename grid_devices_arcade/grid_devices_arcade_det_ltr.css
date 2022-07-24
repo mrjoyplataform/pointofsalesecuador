@@ -1,0 +1,104 @@
+.css_cod_device_det_label {text-align: left;vertical-align: middle;}
+.css_cod_device_det_line {height:0px;text-align: left;}
+.css_cod_activo_det_label {text-align: left;vertical-align: middle;}
+.css_cod_activo_det_line {height:0px;text-align: left;}
+.css_cod_grupo_det_label {text-align: left;vertical-align: middle;}
+.css_cod_grupo_det_line {height:0px;text-align: left;}
+.css_device_name_det_label {text-align: left;vertical-align: middle;}
+.css_device_name_det_line {height:0px;text-align: left;}
+.css_activa_det_label {text-align: left;vertical-align: middle;}
+.css_activa_det_line {height:0px;text-align: left;}
+.css_estado_det_label {text-align: left;vertical-align: middle;}
+.css_estado_det_line {height:0px;text-align: left;}
+.css_ult_rfid_det_label {text-align: left;vertical-align: middle;}
+.css_ult_rfid_det_line {height:0px;text-align: left;}
+.css_ult_fecha_det_label {text-align: left;vertical-align: middle;}
+.css_ult_fecha_det_line {height:0px;text-align: left;}
+.css_valor_default_det_label {text-align: left;vertical-align: middle;}
+.css_valor_default_det_line {height:0px;text-align: left;}
+.css_acepta_tiempo_det_label {text-align: left;vertical-align: middle;}
+.css_acepta_tiempo_det_line {height:0px;text-align: left;}
+.css_acepta_tokens_det_label {text-align: left;vertical-align: middle;}
+.css_acepta_tokens_det_line {height:0px;text-align: left;}
+.css_dev_ip_det_label {text-align: left;vertical-align: middle;}
+.css_dev_ip_det_line {height:0px;text-align: left;}
+.css_tipo_dev_det_label {text-align: left;vertical-align: middle;}
+.css_tipo_dev_det_line {height:0px;text-align: left;}
+.css_direccion_torno_det_label {text-align: left;vertical-align: middle;}
+.css_direccion_torno_det_line {height:0px;text-align: left;}
+.css_timeout_rfid_det_label {text-align: left;vertical-align: middle;}
+.css_timeout_rfid_det_line {height:0px;text-align: left;}
+.css_discapacitado_det_label {text-align: left;vertical-align: middle;}
+.css_discapacitado_det_line {height:0px;text-align: left;}
+.css_numcaja_det_label {text-align: left;vertical-align: middle;}
+.css_numcaja_det_line {height:0px;text-align: left;}
+.css_empleado_det_label {text-align: left;vertical-align: middle;}
+.css_empleado_det_line {height:0px;text-align: left;}
+.css_tokens_det_label {text-align: left;vertical-align: middle;}
+.css_tokens_det_line {height:0px;text-align: left;}
+.css_serialrfid_det_label {text-align: left;vertical-align: middle;}
+.css_serialrfid_det_line {height:0px;text-align: left;}
+.css_bidireccion_det_label {text-align: left;vertical-align: middle;}
+.css_bidireccion_det_line {height:0px;text-align: left;}
+.css_cod_devicee_det_label {text-align: left;vertical-align: middle;}
+.css_cod_devicee_det_line {height:0px;text-align: left;}
+.css_url_1_det_label {text-align: left;vertical-align: middle;}
+.css_url_1_det_line {height:0px;text-align: left;}
+.css_url_2_det_label {text-align: left;vertical-align: middle;}
+.css_url_2_det_line {height:0px;text-align: left;}
+.css_url_3_det_label {text-align: left;vertical-align: middle;}
+.css_url_3_det_line {height:0px;text-align: left;}
+.css_foto1_det_label {text-align: left;vertical-align: middle;}
+.css_foto1_det_line {height:0px;text-align: left;}
+.css_foto2_det_label {text-align: left;vertical-align: middle;}
+.css_foto2_det_line {height:0px;text-align: left;}
+.css_foto3_det_label {text-align: left;vertical-align: middle;}
+.css_foto3_det_line {height:0px;text-align: left;}
+.css_pin_relay1_det_label {text-align: left;vertical-align: middle;}
+.css_pin_relay1_det_line {height:0px;text-align: left;}
+.css_pin_relay2_det_label {text-align: left;vertical-align: middle;}
+.css_pin_relay2_det_line {height:0px;text-align: left;}
+.css_rfid_read_det_label {text-align: left;vertical-align: middle;}
+.css_rfid_read_det_line {height:0px;text-align: left;}
+.css_rfid_estado_det_label {text-align: left;vertical-align: middle;}
+.css_rfid_estado_det_line {height:0px;text-align: left;}
+.css_rfid_fecha_det_label {text-align: left;vertical-align: middle;}
+.css_rfid_fecha_det_line {height:0px;text-align: left;}
+.css_url_accion_det_label {text-align: left;vertical-align: middle;}
+.css_url_accion_det_line {height:0px;text-align: left;}
+.css_url_atraccion_det_label {text-align: left;vertical-align: middle;}
+.css_url_atraccion_det_line {height:0px;text-align: left;}
+.css_uhfip_det_label {text-align: left;vertical-align: middle;}
+.css_uhfip_det_line {height:0px;text-align: left;}
+.css_url_reader_det_label {text-align: left;vertical-align: middle;}
+.css_url_reader_det_line {height:0px;text-align: left;}
+.css_cod_rfid900_det_label {text-align: left;vertical-align: middle;}
+.css_cod_rfid900_det_line {height:0px;text-align: left;}
+.css_mensaje_det_label {text-align: left;vertical-align: middle;}
+.css_mensaje_det_line {height:0px;text-align: left;}
+.css_tipolector_det_label {text-align: left;vertical-align: middle;}
+.css_tipolector_det_line {height:0px;text-align: left;}
+.css_url_accion_bg_det_label {text-align: left;vertical-align: middle;}
+.css_url_accion_bg_det_line {height:0px;text-align: left;}
+.css_url_inicio_det_label {text-align: left;vertical-align: middle;}
+.css_url_inicio_det_line {height:0px;text-align: left;}
+.css_ledstripe1_det_label {text-align: left;vertical-align: middle;}
+.css_ledstripe1_det_line {height:0px;text-align: left;}
+.css_ledstripe2_det_label {text-align: left;vertical-align: middle;}
+.css_ledstripe2_det_line {height:0px;text-align: left;}
+.css_ledstripe3_det_label {text-align: left;vertical-align: middle;}
+.css_ledstripe3_det_line {height:0px;text-align: left;}
+.css_ledstripe4_det_label {text-align: left;vertical-align: middle;}
+.css_ledstripe4_det_line {height:0px;text-align: left;}
+.css_lasteffect_det_label {text-align: left;vertical-align: middle;}
+.css_lasteffect_det_line {height:0px;text-align: left;}
+.css_color_det_label {text-align: left;vertical-align: middle;}
+.css_color_det_line {height:0px;text-align: left;}
+.css_sound_det_label {text-align: left;vertical-align: middle;}
+.css_sound_det_line {height:0px;text-align: left;}
+.css_points_det_label {text-align: left;vertical-align: middle;}
+.css_points_det_line {height:0px;text-align: left;}
+.css_speak_det_label {text-align: left;vertical-align: middle;}
+.css_speak_det_line {height:0px;text-align: left;}
+.css_typereader_det_label {text-align: left;vertical-align: middle;}
+.css_typereader_det_line {height:0px;text-align: left;}

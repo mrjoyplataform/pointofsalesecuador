@@ -1,0 +1,7 @@
+index.php
+pointofsales
+grid_promedio_satisfaccion
+NAO
+cons
+grid_promedio_satisfaccion
+LigMd5

@@ -1,0 +1,36 @@
+.css_fecha_califica_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_califica_grid_line {vertical-align: top;text-align: center;}
+.css_fecha_registro_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_registro_grid_line {vertical-align: top;text-align: center;}
+.css_idproducto_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idproducto_grid_line {vertical-align: top;text-align: right;}
+.css_califica_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_califica_grid_line {vertical-align: top;text-align: right;}
+.css_cliente_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cliente_grid_line {vertical-align: top;text-align: right;}
+.css_idcliente_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_idcliente_grid_line {vertical-align: top;text-align: right;}
+.css_telefono_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_telefono_grid_line {vertical-align: top;text-align: right;}
+.css_cliente_email_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cliente_email_grid_line {vertical-align: top;text-align: right;}
+.css_serie_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_serie_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_entrada_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_entrada_grid_line {vertical-align: top;text-align: center;}
+.css_fecha_salida_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_salida_grid_line {vertical-align: top;text-align: center;}
+.css_entrada_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_entrada_grid_line {vertical-align: top;text-align: right;}
+.css_jugador_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_jugador_grid_line {vertical-align: top;text-align: right;}
+.css_visitante_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_visitante_grid_line {vertical-align: top;text-align: right;}
+.css_qrboleto_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_qrboleto_grid_line {vertical-align: top;text-align: right;}
+.css_idsale_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idsale_grid_line {vertical-align: top;text-align: right;}
+.css_estado_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_estado_grid_line {vertical-align: top;text-align: right;}
+.css_nombre_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_nombre_grid_line {vertical-align: top;text-align: right;}

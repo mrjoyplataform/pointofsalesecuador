@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blankimprimir
+NAO
+blank
+blankimprimir
+LigMd5

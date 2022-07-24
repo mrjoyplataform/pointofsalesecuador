@@ -1,0 +1,7 @@
+index.php
+pointofsales
+grid_tarjetasrfid_ingreso
+NAO
+cons
+grid_tarjetasrfid_ingreso
+LigMd5

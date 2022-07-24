@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_inicio_arcade
+NAO
+blank
+blank_inicio_arcade
+LigMd5

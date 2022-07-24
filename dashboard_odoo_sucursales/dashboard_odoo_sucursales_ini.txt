@@ -1,0 +1,7 @@
+index.php
+pointofsales
+dashboard_odoo_sucursales
+NAO
+container
+dashboard_odoo_sucursales
+LigMd5

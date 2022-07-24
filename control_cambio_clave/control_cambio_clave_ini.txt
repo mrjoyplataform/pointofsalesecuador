@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_cambio_clave
+NAO
+contr
+control_cambio_clave
+LigMd5

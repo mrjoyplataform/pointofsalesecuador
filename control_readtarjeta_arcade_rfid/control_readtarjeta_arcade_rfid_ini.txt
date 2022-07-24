@@ -1,0 +1,7 @@
+index.php
+pointofsales
+control_readtarjeta_arcade_rfid
+NAO
+contr
+control_readtarjeta_arcade_rfid
+LigMd5

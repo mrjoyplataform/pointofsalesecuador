@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blank_inicio_checkpoint
+NAO
+blank
+blank_inicio_checkpoint
+LigMd5

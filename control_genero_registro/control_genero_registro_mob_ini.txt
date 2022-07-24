@@ -1,0 +1,7 @@
+control_genero_registro_mob.php
+pointofsales
+control_genero_registro_mob
+NAO
+contr
+control_genero_registro
+LigMd5

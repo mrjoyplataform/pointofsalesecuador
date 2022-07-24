@@ -1,0 +1,7 @@
+index.php
+pointofsales
+chart_tarjetasmovim_odoo
+NAO
+cons
+chart_tarjetasmovim_odoo
+LigMd5

@@ -1,0 +1,426 @@
+.css_codprod01_label { }
+.css_codprod01_line { }
+.css_codprod01_obj { }
+.css_desprod01_label { }
+.css_desprod01_line { }
+.css_desprod01_obj { }
+.css_cve101_label { }
+.css_cve101_line { }
+.css_cve101_obj { }
+.css_cve201_label { }
+.css_cve201_line { }
+.css_cve201_obj { }
+.css_unidmed01_label { }
+.css_unidmed01_line { }
+.css_unidmed01_obj { }
+.css_cantmin01_label { }
+.css_cantmin01_line {text-align:left;}
+.css_cantmin01_obj {text-align:left;}
+.css_cantact01_label { }
+.css_cantact01_line {text-align:left;}
+.css_cantact01_obj {text-align:left;}
+.css_valact01_label { }
+.css_valact01_line {text-align:left;}
+.css_valact01_obj {text-align:left;}
+.css_exipromo01_label { }
+.css_exipromo01_line {text-align:left;}
+.css_exipromo01_obj {text-align:left;}
+.css_precuni01_label { }
+.css_precuni01_line {text-align:left;}
+.css_precuni01_obj {text-align:left;}
+.css_pedpend01_label { }
+.css_pedpend01_line {text-align:left;}
+.css_pedpend01_obj {text-align:left;}
+.css_orden01_label { }
+.css_orden01_line { }
+.css_orden01_obj { }
+.css_refer01_label { }
+.css_refer01_line { }
+.css_refer01_obj { }
+.css_canentm01_label { }
+.css_canentm01_line {text-align:left;}
+.css_canentm01_obj {text-align:left;}
+.css_valentm01_label { }
+.css_valentm01_line {text-align:left;}
+.css_valentm01_obj {text-align:left;}
+.css_cansalm01_label { }
+.css_cansalm01_line {text-align:left;}
+.css_cansalm01_obj {text-align:left;}
+.css_valsalm01_label { }
+.css_valsalm01_line {text-align:left;}
+.css_valsalm01_obj {text-align:left;}
+.css_canenta01_label { }
+.css_canenta01_line {text-align:left;}
+.css_canenta01_obj {text-align:left;}
+.css_valenta01_label { }
+.css_valenta01_line {text-align:left;}
+.css_valenta01_obj {text-align:left;}
+.css_cansala01_label { }
+.css_cansala01_line {text-align:left;}
+.css_cansala01_obj {text-align:left;}
+.css_valsala01_label { }
+.css_valsala01_line {text-align:left;}
+.css_valsala01_obj {text-align:left;}
+.css_fecape01_label { }
+.css_fecape01_line { }
+.css_fecape01_obj { }
+.css_fecult01_label { }
+.css_fecult01_line { }
+.css_fecult01_obj { }
+.css_fecvta01_label { }
+.css_fecvta01_line { }
+.css_fecvta01_obj { }
+.css_ubic01_label { }
+.css_ubic01_line { }
+.css_ubic01_obj { }
+.css_precvta01_label { }
+.css_precvta01_line {text-align:left;}
+.css_precvta01_obj {text-align:left;}
+.css_descto101_label { }
+.css_descto101_line {text-align:left;}
+.css_descto101_obj {text-align:left;}
+.css_precio201_label { }
+.css_precio201_line {text-align:left;}
+.css_precio201_obj {text-align:left;}
+.css_descto201_label { }
+.css_descto201_line {text-align:left;}
+.css_descto201_obj {text-align:left;}
+.css_precio301_label { }
+.css_precio301_line {text-align:left;}
+.css_precio301_obj {text-align:left;}
+.css_descto301_label { }
+.css_descto301_line {text-align:left;}
+.css_descto301_obj {text-align:left;}
+.css_canvtam01_label { }
+.css_canvtam01_line {text-align:left;}
+.css_canvtam01_obj {text-align:left;}
+.css_valvtam01_label { }
+.css_valvtam01_line {text-align:left;}
+.css_valvtam01_obj {text-align:left;}
+.css_cosvtam01_label { }
+.css_cosvtam01_line {text-align:left;}
+.css_cosvtam01_obj {text-align:left;}
+.css_canvtaa01_label { }
+.css_canvtaa01_line {text-align:left;}
+.css_canvtaa01_obj {text-align:left;}
+.css_valvtaa01_label { }
+.css_valvtaa01_line {text-align:left;}
+.css_valvtaa01_obj {text-align:left;}
+.css_cosvtaa01_label { }
+.css_cosvtaa01_line {text-align:left;}
+.css_cosvtaa01_obj {text-align:left;}
+.css_prod1alt01_label { }
+.css_prod1alt01_line { }
+.css_prod1alt01_obj { }
+.css_prod2alt01_label { }
+.css_prod2alt01_line { }
+.css_prod2alt01_obj { }
+.css_proved101_label { }
+.css_proved101_line { }
+.css_proved101_obj { }
+.css_proved201_label { }
+.css_proved201_line { }
+.css_proved201_obj { }
+.css_med101_label { }
+.css_med101_line {text-align:left;}
+.css_med101_obj {text-align:left;}
+.css_med201_label { }
+.css_med201_line {text-align:left;}
+.css_med201_obj {text-align:left;}
+.css_med301_label { }
+.css_med301_line {text-align:left;}
+.css_med301_obj {text-align:left;}
+.css_factor01_label { }
+.css_factor01_line {text-align:left;}
+.css_factor01_obj {text-align:left;}
+.css_cvserie01_label { }
+.css_cvserie01_line { }
+.css_cvserie01_obj { }
+.css_ctain101_label { }
+.css_ctain101_line { }
+.css_ctain101_obj { }
+.css_ctain201_label { }
+.css_ctain201_line { }
+.css_ctain201_obj { }
+.css_ctain301_label { }
+.css_ctain301_line { }
+.css_ctain301_obj { }
+.css_porciva01_label { }
+.css_porciva01_line {text-align:left;}
+.css_porciva01_obj {text-align:left;}
+.css_prodsinsdo01_label { }
+.css_prodsinsdo01_line { }
+.css_prodsinsdo01_obj { }
+.css_sinprec01_label { }
+.css_sinprec01_line { }
+.css_sinprec01_obj { }
+.css_fotoprod01_label { }
+.css_fotoprod01_line { }
+.css_fotoprod01_obj { }
+.css_detprod01_label { }
+.css_detprod01_line { }
+.css_detprod01_obj { }
+.css_block_label { }
+.css_block_line { }
+.css_block_obj { }
+.css_uid_label { }
+.css_uid_line { }
+.css_uid_obj { }
+.css_ultimoacceso_label { }
+.css_ultimoacceso_line { }
+.css_ultimoacceso_obj { }
+.css_idpro_label { }
+.css_idpro_line { }
+.css_idpro_obj { }
+.css_catprod01_label { }
+.css_catprod01_line { }
+.css_catprod01_obj { }
+.css_med401_label { }
+.css_med401_line {text-align:left;}
+.css_med401_obj {text-align:left;}
+.css_med501_label { }
+.css_med501_line {text-align:left;}
+.css_med501_obj {text-align:left;}
+.css_prodconmed01_label { }
+.css_prodconmed01_line { }
+.css_prodconmed01_obj { }
+.css_factorpeso01_label { }
+.css_factorpeso01_line { }
+.css_factorpeso01_obj { }
+.css_codbar01_label { }
+.css_codbar01_line { }
+.css_codbar01_obj { }
+.css_unifrac01_label { }
+.css_unifrac01_line { }
+.css_unifrac01_obj { }
+.css_calidad01_label { }
+.css_calidad01_line { }
+.css_calidad01_obj { }
+.css_color01_label { }
+.css_color01_line { }
+.css_color01_obj { }
+.css_material01_label { }
+.css_material01_line { }
+.css_material01_obj { }
+.css_talla01_label { }
+.css_talla01_line { }
+.css_talla01_obj { }
+.css_compuesto01_label { }
+.css_compuesto01_line { }
+.css_compuesto01_obj { }
+.css_catalt01_label { }
+.css_catalt01_line { }
+.css_catalt01_obj { }
+.css_precfob01_label { }
+.css_precfob01_line {text-align:left;}
+.css_precfob01_obj {text-align:left;}
+.css_precio401_label { }
+.css_precio401_line {text-align:left;}
+.css_precio401_obj {text-align:left;}
+.css_descto401_label { }
+.css_descto401_line {text-align:left;}
+.css_descto401_obj {text-align:left;}
+.css_porigen01_label { }
+.css_porigen01_line { }
+.css_porigen01_obj { }
+.css_rin01_label { }
+.css_rin01_line { }
+.css_rin01_obj { }
+.css_marca01_label { }
+.css_marca01_line { }
+.css_marca01_obj { }
+.css_alto01_label { }
+.css_alto01_line { }
+.css_alto01_obj { }
+.css_ancho01_label { }
+.css_ancho01_line { }
+.css_ancho01_obj { }
+.css_tipoletra01_label { }
+.css_tipoletra01_line { }
+.css_tipoletra01_obj { }
+.css_indcarga01_label { }
+.css_indcarga01_line { }
+.css_indcarga01_obj { }
+.css_indveloc01_label { }
+.css_indveloc01_line { }
+.css_indveloc01_obj { }
+.css_pr01_label { }
+.css_pr01_line { }
+.css_pr01_obj { }
+.css_dis01_label { }
+.css_dis01_line { }
+.css_dis01_obj { }
+.css_tipocons01_label { }
+.css_tipocons01_line { }
+.css_tipocons01_obj { }
+.css_precateg01_label { }
+.css_precateg01_line { }
+.css_precateg01_obj { }
+.css_tipprod01_label { }
+.css_tipprod01_line { }
+.css_tipprod01_obj { }
+.css_conversion01_label { }
+.css_conversion01_line {text-align:left;}
+.css_conversion01_obj {text-align:left;}
+.css_valhom01_label { }
+.css_valhom01_line {text-align:left;}
+.css_valhom01_obj {text-align:left;}
+.css_ctain401_label { }
+.css_ctain401_line { }
+.css_ctain401_obj { }
+.css_valhom02_label { }
+.css_valhom02_line {text-align:left;}
+.css_valhom02_obj {text-align:left;}
+.css_valhom03_label { }
+.css_valhom03_line {text-align:left;}
+.css_valhom03_obj {text-align:left;}
+.css_valhom04_label { }
+.css_valhom04_line {text-align:left;}
+.css_valhom04_obj {text-align:left;}
+.css_statuspro01_label { }
+.css_statuspro01_line { }
+.css_statuspro01_obj { }
+.css_parara01_label { }
+.css_parara01_line { }
+.css_parara01_obj { }
+.css_prodequiv01_label { }
+.css_prodequiv01_line { }
+.css_prodequiv01_obj { }
+.css_regalia01_label { }
+.css_regalia01_line { }
+.css_regalia01_obj { }
+.css_precio501_label { }
+.css_precio501_line {text-align:left;}
+.css_precio501_obj {text-align:left;}
+.css_descto501_label { }
+.css_descto501_line {text-align:left;}
+.css_descto501_obj {text-align:left;}
+.css_precio601_label { }
+.css_precio601_line {text-align:left;}
+.css_precio601_obj {text-align:left;}
+.css_descto601_label { }
+.css_descto601_line {text-align:left;}
+.css_descto601_obj {text-align:left;}
+.css_precio701_label { }
+.css_precio701_line {text-align:left;}
+.css_precio701_obj {text-align:left;}
+.css_descto701_label { }
+.css_descto701_line {text-align:left;}
+.css_descto701_obj {text-align:left;}
+.css_precio801_label { }
+.css_precio801_line {text-align:left;}
+.css_precio801_obj {text-align:left;}
+.css_descto801_label { }
+.css_descto801_line {text-align:left;}
+.css_descto801_obj {text-align:left;}
+.css_precio901_label { }
+.css_precio901_line {text-align:left;}
+.css_precio901_obj {text-align:left;}
+.css_descto901_label { }
+.css_descto901_line {text-align:left;}
+.css_descto901_obj {text-align:left;}
+.css_precio1001_label { }
+.css_precio1001_line {text-align:left;}
+.css_precio1001_obj {text-align:left;}
+.css_descto1001_label { }
+.css_descto1001_line {text-align:left;}
+.css_descto1001_obj {text-align:left;}
+.css_precio1101_label { }
+.css_precio1101_line {text-align:left;}
+.css_precio1101_obj {text-align:left;}
+.css_descto1101_label { }
+.css_descto1101_line {text-align:left;}
+.css_descto1101_obj {text-align:left;}
+.css_precio1201_label { }
+.css_precio1201_line {text-align:left;}
+.css_precio1201_obj {text-align:left;}
+.css_descto1201_label { }
+.css_descto1201_line {text-align:left;}
+.css_descto1201_obj {text-align:left;}
+.css_submarca01_label { }
+.css_submarca01_line { }
+.css_submarca01_obj { }
+.css_modelo01_label { }
+.css_modelo01_line { }
+.css_modelo01_obj { }
+.css_clasific01_label { }
+.css_clasific01_line { }
+.css_clasific01_obj { }
+.css_codbarempaque01_label { }
+.css_codbarempaque01_line { }
+.css_codbarempaque01_obj { }
+.css_unidadempaque01_label { }
+.css_unidadempaque01_line { }
+.css_unidadempaque01_obj { }
+.css_dimensionempaque01_label { }
+.css_dimensionempaque01_line { }
+.css_dimensionempaque01_obj { }
+.css_link01_label { }
+.css_link01_line { }
+.css_link01_obj { }
+.css_desprod201_label { }
+.css_desprod201_line { }
+.css_desprod201_obj { }
+.css_desprod301_label { }
+.css_desprod301_line { }
+.css_desprod301_obj { }
+.css_coefprd01_label { }
+.css_coefprd01_line {text-align:left;}
+.css_coefprd01_obj {text-align:left;}
+.css_infor01_label { }
+.css_infor01_line { }
+.css_infor01_obj { }
+.css_infor03_label { }
+.css_infor03_line { }
+.css_infor03_obj { }
+.css_infor05_label { }
+.css_infor05_line { }
+.css_infor05_obj { }
+.css_infor07_label { }
+.css_infor07_line { }
+.css_infor07_obj { }
+.css_porcenrenta_label { }
+.css_porcenrenta_line {text-align:left;}
+.css_porcenrenta_obj {text-align:left;}
+.css_peso_label { }
+.css_peso_line { }
+.css_peso_obj { }
+.css_consignado_label { }
+.css_consignado_line { }
+.css_consignado_obj { }
+.css_cant_consignado_label { }
+.css_cant_consignado_line {text-align:left;}
+.css_cant_consignado_obj {text-align:left;}
+.css_baseimpexe01_label { }
+.css_baseimpexe01_line { }
+.css_baseimpexe01_obj { }
+.css_peso01_label { }
+.css_peso01_line {text-align:left;}
+.css_peso01_obj {text-align:left;}
+.css_prodrel01_label { }
+.css_prodrel01_line { }
+.css_prodrel01_obj { }
+.css_infor02_label { }
+.css_infor02_line { }
+.css_infor02_obj { }
+.css_infor04_label { }
+.css_infor04_line { }
+.css_infor04_obj { }
+.css_infor06_label { }
+.css_infor06_line { }
+.css_infor06_obj { }
+.css_infor08_label { }
+.css_infor08_line { }
+.css_infor08_obj { }
+.css_porcicevta01_label { }
+.css_porcicevta01_line {text-align:left;}
+.css_porcicevta01_obj {text-align:left;}
+.css_porcicecpra01_label { }
+.css_porcicecpra01_line {text-align:left;}
+.css_porcicecpra01_obj {text-align:left;}
+.css_porcptdaranc01_label { }
+.css_porcptdaranc01_line {text-align:left;}
+.css_porcptdaranc01_obj {text-align:left;}
+.css_ordimp01_label { }
+.css_ordimp01_line { }
+.css_ordimp01_obj { }

@@ -1,0 +1,16 @@
+.css_cuenta_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cuenta_grid_line {vertical-align: top;text-align: right;}
+.css_sucursal_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_sucursal_grid_line {vertical-align: top;text-align: right;}
+.css_product_name_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_product_name_grid_line {vertical-align: top;text-align: right;}
+.css_fecha_label {text-align:center;vertical-align:middle;justify-content:center;font-weight:bold;}
+.css_fecha_grid_line {vertical-align: top;text-align: center;}
+.css_valor_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_grid_line {vertical-align: top;text-align: right;}
+.css_valor_sub_tot {text-align: right;}
+.css_valor_tot_ger {text-align: right;}
+.css_cantidad_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cantidad_grid_line {vertical-align: top;text-align: right;}
+.css_cantidad_sub_tot {text-align: right;}
+.css_cantidad_tot_ger {text-align: right;}

@@ -1,0 +1,7 @@
+controlrfid_mob.php
+pointofsales
+controlrfid_mob
+NAO
+contr
+controlrfid
+LigMd5

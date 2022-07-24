@@ -1,0 +1,52 @@
+.css_id_sales_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_sales_grid_line {vertical-align: top;text-align: right;}
+.css_codproducto_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codproducto_grid_line {vertical-align: top;text-align: left;}
+.css_producto_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_producto_grid_line {vertical-align: top;text-align: left;}
+.css_quantity_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_quantity_grid_line {vertical-align: top;text-align: right;}
+.css_quantity_sub_tot {text-align: right;}
+.css_quantity_tot_ger {text-align: right;}
+.css_item_total_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_item_total_grid_line {vertical-align: top;text-align: right;}
+.css_item_total_sub_tot {text-align: right;}
+.css_item_total_tot_ger {text-align: right;}
+.css_valor_siniva_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_siniva_grid_line {vertical-align: top;text-align: right;}
+.css_valor_unitario_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_unitario_grid_line {vertical-align: top;text-align: right;}
+.css_cuentaventa_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_cuentaventa_grid_line {vertical-align: top;text-align: left;}
+.css_idcaja_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_idcaja_grid_line {vertical-align: top;text-align: right;}
+.css_factura_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_factura_grid_line {vertical-align: top;text-align: right;}
+.css_uniqueid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_uniqueid_grid_line {vertical-align: top;text-align: left;}
+.css_entrada_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_entrada_grid_line {vertical-align: top;text-align: right;}
+.css_jugador_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_jugador_grid_line {vertical-align: top;text-align: right;}
+.css_visitante_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_visitante_grid_line {vertical-align: top;text-align: right;}
+.css_tarjeta_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tarjeta_grid_line {vertical-align: top;text-align: right;}
+.css_tokens_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_tokens_grid_line {vertical-align: top;text-align: right;}
+.css_minutos_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_minutos_grid_line {vertical-align: top;text-align: right;}
+.css_comida_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_comida_grid_line {vertical-align: top;text-align: right;}
+.css_tarjetarfid_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_tarjetarfid_grid_line {vertical-align: top;text-align: left;}
+.css_rfid_pulsera_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_rfid_pulsera_grid_line {vertical-align: top;text-align: left;}
+.css_id_sales_detail_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_sales_detail_grid_line {vertical-align: top;text-align: right;}
+.css_unit_cost_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_unit_cost_grid_line {vertical-align: top;text-align: right;}
+.css_unit_value_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_unit_value_grid_line {vertical-align: top;text-align: right;}
+.css_discount_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_discount_grid_line {vertical-align: top;text-align: right;}

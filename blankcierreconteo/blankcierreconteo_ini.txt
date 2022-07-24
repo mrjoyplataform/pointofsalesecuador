@@ -1,0 +1,7 @@
+index.php
+pointofsales
+blankcierreconteo
+NAO
+blank
+blankcierreconteo
+LigMd5

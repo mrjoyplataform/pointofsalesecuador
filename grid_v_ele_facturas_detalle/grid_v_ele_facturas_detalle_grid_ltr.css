@@ -1,0 +1,22 @@
+.css_numero_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_numero_grid_line {vertical-align: top;text-align: left;}
+.css_codigo_principal_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codigo_principal_grid_line {vertical-align: top;text-align: left;}
+.css_descripcion_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_descripcion_grid_line {vertical-align: top;text-align: left;}
+.css_cantidad_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_cantidad_grid_line {vertical-align: top;text-align: right;}
+.css_precio_unitario_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_precio_unitario_grid_line {vertical-align: top;text-align: right;}
+.css_valor_iva_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_valor_iva_grid_line {vertical-align: top;text-align: right;}
+.css_descuento_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_descuento_grid_line {vertical-align: top;text-align: right;}
+.css_precio_total_sin_impuesto_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_precio_total_sin_impuesto_grid_line {vertical-align: top;text-align: right;}
+.css_id_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_id_grid_line {vertical-align: top;text-align: right;}
+.css_codigo_label {text-align:left;vertical-align:middle;justify-content:left;font-weight:bold;}
+.css_codigo_grid_line {vertical-align: top;text-align: left;}
+.css_linea_label {text-align:right;vertical-align:middle;justify-content:right;font-weight:bold;}
+.css_linea_grid_line {vertical-align: top;text-align: right;}

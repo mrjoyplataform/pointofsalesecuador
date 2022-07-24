@@ -1,0 +1,7 @@
+control_empleado_admin_valida_mob.php
+pointofsales
+control_empleado_admin_valida_mob
+NAO
+contr
+control_empleado_admin_valida
+LigMd5

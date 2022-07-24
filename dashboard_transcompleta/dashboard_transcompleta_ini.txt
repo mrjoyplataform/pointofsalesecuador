@@ -1,0 +1,7 @@
+index.php
+pointofsales
+dashboard_transcompleta
+NAO
+container
+dashboard_transcompleta
+LigMd5

@@ -1,0 +1,7 @@
+control_factura_electronica_mob.php
+pointofsales
+control_factura_electronica_mob
+NAO
+contr
+control_factura_electronica
+LigMd5

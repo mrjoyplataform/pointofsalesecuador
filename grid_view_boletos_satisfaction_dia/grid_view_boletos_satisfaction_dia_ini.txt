@@ -1,0 +1,7 @@
+index.php
+pointofsales
+grid_view_boletos_satisfaction_dia
+NAO
+cons
+grid_view_boletos_satisfaction_dia
+LigMd5

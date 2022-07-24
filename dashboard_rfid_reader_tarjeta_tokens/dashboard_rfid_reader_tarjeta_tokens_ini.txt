@@ -1,0 +1,7 @@
+index.php
+pointofsales
+dashboard_rfid_reader_tarjeta_tokens
+NAO
+container
+dashboard_rfid_reader_tarjeta_tokens
+LigMd5

@@ -1,0 +1,7 @@
+index.php
+pointofsales
+dashboard_consulta_tarjeta_arcade
+NAO
+container
+dashboard_consulta_tarjeta_arcade
+LigMd5

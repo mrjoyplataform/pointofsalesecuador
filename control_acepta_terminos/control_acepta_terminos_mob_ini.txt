@@ -1,0 +1,7 @@
+control_acepta_terminos_mob.php
+pointofsales
+control_acepta_terminos_mob
+NAO
+contr
+control_acepta_terminos
+LigMd5
